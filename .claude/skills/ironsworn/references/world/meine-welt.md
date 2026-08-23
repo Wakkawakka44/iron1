@@ -84,18 +84,53 @@ Spiel, keine offene Autor:innen-Frage):**
 Gewählte Option: **die Broken**. Vor den heutigen Ironländern kamen bereits
 andere Menschen in dieses Land, doch von ihnen ist nur noch ein wildes,
 verrohtes Volk übrig, das man die Broken nennt. Ist es auch das Schicksal
-der heutigen Siedler, eines Tages selbst zu den Broken zu werden?
-
-**Zeitlinie (geklärt):** Die Broken gehen auf einen eigenen, deutlich
-älteren Exodus zurück, über den nichts Näheres bekannt ist — er liegt lange,
-lange vor dem großen Exodus aus der alten Welt (400+ Jahre, siehe „The Old
-World"). Es sind also zwei völlig getrennte, zeitlich weit auseinander
-liegende Ereignisse: der uralte, unbekannte Exodus, aus dessen Siedlern die
-Broken wurden, und der spätere, gut dokumentierte Exodus der heutigen
-Ironländer.
+der heutigen Siedler, eines Tages selbst zu den Broken zu werden? Details zu
+den Broken siehe unten unter „Broken".
 
 Daneben gibt es auch die Firstborn in den Ironlands — Details dazu siehe
 unten unter „Firstborn“.
+
+## Broken
+
+*Konsolidierte Sektion — trägt alles bisher zu den Broken Gesagte zusammen
+(aus Legacies, Communities, Religion und einer eigenen Korrektur).*
+
+Die Broken sind die Überreste einer untergegangenen Zivilisation. Sie gehen
+auf einen eigenen, deutlich älteren Exodus zurück, über den nichts Näheres
+bekannt ist — dieser liegt lange, lange vor dem großen Exodus aus der alten
+Welt (400+ Jahre, siehe „The Old World"). Es sind also zwei völlig getrennte,
+zeitlich weit auseinanderliegende Ereignisse: der uralte, unbekannte Exodus,
+aus dessen Siedlern die Broken wurden, und der spätere, gut dokumentierte
+Exodus der heutigen Ironländer.
+
+**Korrektur zur Natur der Broken:** Nicht einzelne Broken-Kinder gelten als
+"zu wahnsinnig" und werden deshalb ausgestoßen — richtig ist das Gegenteil:
+Die Broken sind praktisch **alle** von einer Art Wahnsinn ergriffen (aus
+ihrer eigenen Sicht vielleicht nicht), voller Wut und Rage. Sie greifen
+alles und jeden an, was ihnen begegnet, kennen keine Rücksicht auf das
+eigene Leben oder eigene Bedürfnisse, und töten auf Sicht. Handel oder
+echter kultureller Austausch mit ihnen ist praktisch unmöglich. Sie
+verunstalten zudem ihre eigenen Körper, um noch gefährlicher zu wirken.
+
+Sehr selten kommt es vor, dass ein Kind unter den Broken sich *nicht* wie
+der Rest verhält — aus Sicht der Broken gilt ein solches Kind als
+dysfunktional oder zu schwach, nicht als zu wahnsinnig. Diese Kinder werden
+mitunter verstoßen statt getötet. Tatsächlich sind sie aus Ironländer-Sicht
+schlicht normal — nur eben nicht von der Broken-Raserei ergriffen. Manche
+dieser Ausgestoßenen schaffen es in die „Zivilisation" der Ironlands und
+werden von einer Siedlung gerettet oder aufgenommen.
+
+Weil echter kultureller Austausch nicht stattfindet, beruht alles Wissen
+über die Broken auf zwei Quellen: eigener Beobachtung/Erfahrung (meist aus
+Kämpfen) und den Erzählungen dieser geretteten, ausgestoßenen Kinder. Das
+betrifft auch das ungefähre, lückenhafte Bild, das man von der Religion der
+Broken hat (siehe „Religion") sowie ihre eigene, schamanistische Art der
+Magie (siehe „Mysticism").
+
+**Ungeklärtes Mysterium / Arbeitsthese (bewusst als späterer Plot-Twist
+gedacht):** Warum die Broken sich so verhalten, ist in der Fiktion nicht
+geklärt — ein Fluch, eine Krankheit oder ein Parasit stehen alle im Raum.
+Aktuelle Arbeitsthese: ein **Parasit**.
 
 ## Firstborn
 
@@ -122,7 +157,7 @@ Siedlungen dagegen zunehmend kleiner.
 **Zeitlinie (geklärt):** Die hier beschriebene Wanderung ist derselbe Exodus
 wie unter „The Old World" — 400+ Jahre her, nicht 80–120 Jahre wie zunächst
 notiert. Die Broken gehen auf ein davon unabhängiges, viel älteres und
-unbekanntes Ereignis zurück (siehe „Legacies").
+unbekanntes Ereignis zurück (siehe „Broken").
 
 **Notiz:** Dschungel als Landschaftstyp im Landesinneren weicht vom
 offiziellen Ironlands-Atlas ab (dort eher kalt/rau, siehe
@@ -237,15 +272,10 @@ mit Menschen. Entsprechend ist über die Religion der Firstborn beim
 gewöhnlichen Ironländer schlicht nichts bekannt. Es folgen also keine
 Menschen den Göttern der Firstborn.
 
-Über die Religion der **Broken** hat man dagegen zumindest eine ungefähre
-Vorstellung — auch wenn diese lückenhaft ist. Kinder, die im Alter von etwa
-acht bis zwölf Jahren nicht der Weltsicht ihres Broken-Stammes entsprechen
-oder als zu wahnsinnig gelten, werden meist getötet, gelegentlich aber auch
-verstoßen. Manche dieser Ausgestoßenen schaffen es in die „Zivilisation" der
-Ironlands. Aus ihren Erzählungen und ihrem bruchstückhaften Wissen — ergänzt
-durch eigene Beobachtung und Erfahrung im Umgang mit den Broken — hat sich
-so ein ungefähres Bild davon entwickelt, wie die Religion der Broken
-funktioniert.
+Über die Religion der **Broken** hat man dagegen zumindest eine ungefähre,
+lückenhafte Vorstellung — woher dieses Wissen stammt (Beobachtung plus
+Erzählungen geretteter, ausgestoßener Broken-Kinder) ist unter „Broken"
+im Detail festgehalten.
 
 **Glaube erzeugt keine Macht.** Auch wenn die Götter real sind und Gebete
 gelegentlich erhört werden, entsteht aus dem Glauben selbst keine
@@ -268,3 +298,16 @@ Neuinterpretation gefundener Relikte, alles ineinander verwoben. Je härter
 die Region und je kleiner das Dorf, desto eher hört man auf den Ahnenglauben
 und die Neudeutung der Fundstücke; in den großen Siedlungen haben sich die
 alten Strukturen dagegen besser gehalten.
+
+## Beasts
+
+Es gibt Beasts (monströse Bestien) in den Ironlands — sie sind jedoch selten.
+
+## Horrors
+
+Horrors gibt es (noch) nicht in dieser Welt.
+
+*Hinweis:* Die bewusste Formulierung „noch nicht" lässt offen, ob Horrors
+im Verlauf der Kampagne als neue, aufkommende Bedrohung eingeführt werden
+könnten — ähnlich wie bei den Iron-Stelen als bewusst unbekanntes Mysterium
+gehandhabt, statt als endgültig entschiedene Abwesenheit.
