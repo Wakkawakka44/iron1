@@ -202,3 +202,56 @@ Die meisten Magiebegabten, denen man heute begegnet, sind einfache Personen,
 die in einem Dorf oder einer größeren Siedlung leben und dort von der
 Führungsriege gehalten werden, um der Gemeinschaft zu dienen — und nehmen
 gelegentlich selbst Schüler auf.
+
+## Religion
+
+Die Götter existieren, und es gibt Gläubige — auch wenn die Menschen in den
+Ironlands insgesamt desillusioniert sind. Einige gläubige Menschen schafften
+es beim großen Exodus mit hinüber, und gerade in Zeiten größter Not wandten
+sich die Menschen umso mehr ihren Göttern zu.
+
+Die ersten Jahre in den Ironlands waren extrem hart: Hunderte, vielleicht
+Tausende starben, weil sich Ressourcen, Strukturen und Nahrungsversorgung
+nur schwer etablieren ließen — sowohl für die direkt Gelandeten als auch für
+die nachfolgenden ein, zwei Generationen. Die Lage hat sich inzwischen
+weitgehend stabilisiert, doch vergessen ist diese harte Zeit nicht. Über die
+400 Jahre sind die alten Götter der alten Welt — dort weiterhin verehrt —
+zunehmend in den Hintergrund getreten. An ihre Stelle sind neue Glaubensformen
+getreten, die sich in den Ironlands selbst entwickelt haben: ein
+Schicksalsglaube und ein Ahnenglaube, entstanden auch aus Enttäuschung
+darüber, dass die alten Götter dem harten Schicksal der Siedler nicht zu
+Hilfe kamen — und aus dem Gefühl, dass ein neues Land vielleicht auch neue
+Götter verdient. Manche Ironländer haben sich in Teilen sogar den Göttern
+der Broken verschrieben.
+
+Überall im Land finden sich Ruinen, verlassene Kultstätten oder Fundstücke,
+die von verzweifelten, willigen Menschen als Zeichen alten Glaubens neu
+gedeutet werden — manche davon waren tatsächlich einmal religiöse Stätten,
+andere nie, und wieder andere sind eigentlich Spuren der Firstborn, die nun
+fälschlich kultisch verehrt werden.
+
+Auch die Firstborn haben eigene Götter. Vereinzelt gibt es Menschen, die sich
+diesen verschrieben haben — möglicherweise hängt das mit einer Art Macht
+zusammen, vielleicht sogar mit der Quelle der mystischen Begabung der
+Firstborn selbst (siehe „Mysticism"). Die Firstborn selbst scheinen ihrer
+Natur nach nicht gewillt, viel über die Funktionsweise ihrer Religion preiszugeben.
+
+*Unsichere/vorläufige Idee, noch auszuarbeiten:* Möglicherweise gelangt
+gelegentlich Wissen darüber über junge Menschen nach draußen, die bei den
+Firstborn aufwuchsen und später von einer Siedlung aufgenommen wurden — außer
+bei den wenigen Firstborn, die zu befremdlich/gefährlich dafür sind. Dieser
+Teil der Erzählung war akustisch nicht ganz eindeutig zu verstehen — bitte
+bei Gelegenheit noch einmal genauer ausführen.
+
+In den größeren, meist an der Küste gelegenen Siedlungen haben sich
+religiöse Enklaven mit Tempeln der alten Götter und eigenen Priesterschaften
+am besten erhalten. Bei einer Siedlungsgröße von ein- bis zweitausend
+Menschen bedeutet das aber realistisch nur etwa drei bis zehn Angehörige
+eines bestimmten Glaubens — die zudem in ständiger Konkurrenz mit den
+Priesterschaften anderer Götter in derselben Siedlung stehen. In den
+kleineren Dörfern ist es dagegen eher eine Vermischung all dieser
+Strömungen: alte Götter, Schicksals- und Ahnenglaube sowie die
+Neuinterpretation gefundener Relikte, alles ineinander verwoben. Je härter
+die Region und je kleiner das Dorf, desto eher hört man auf den Ahnenglauben
+und die Neudeutung der Fundstücke; in den großen Siedlungen haben sich die
+alten Strukturen dagegen besser gehalten.
