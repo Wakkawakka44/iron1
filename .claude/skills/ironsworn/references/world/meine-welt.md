@@ -226,22 +226,35 @@ der Broken verschrieben.
 
 Überall im Land finden sich Ruinen, verlassene Kultstätten oder Fundstücke,
 die von verzweifelten, willigen Menschen als Zeichen alten Glaubens neu
-gedeutet werden — manche davon waren tatsächlich einmal religiöse Stätten,
-andere nie, und wieder andere sind eigentlich Spuren der Firstborn, die nun
-fälschlich kultisch verehrt werden.
+gedeutet werden — manche davon waren tatsächlich einmal religiöse Stätten
+(und können, wenn sie es wirklich waren, durchaus noch reale Effekte
+erzeugen), andere nie, und wieder andere sind eigentlich Spuren der
+Firstborn, die nun fälschlich kultisch verehrt werden.
 
-Auch die Firstborn haben eigene Götter. Vereinzelt gibt es Menschen, die sich
-diesen verschrieben haben — möglicherweise hängt das mit einer Art Macht
-zusammen, vielleicht sogar mit der Quelle der mystischen Begabung der
-Firstborn selbst (siehe „Mysticism"). Die Firstborn selbst scheinen ihrer
-Natur nach nicht gewillt, viel über die Funktionsweise ihrer Religion preiszugeben.
+Auch die Firstborn haben eigene Götter — doch weder Elfen noch Trolle noch
+die übrigen Firstborn-Völker teilen ihre Glaubensvorstellungen freiwillig
+mit Menschen. Entsprechend ist über die Religion der Firstborn beim
+gewöhnlichen Ironländer schlicht nichts bekannt. Es folgen also keine
+Menschen den Göttern der Firstborn.
 
-*Unsichere/vorläufige Idee, noch auszuarbeiten:* Möglicherweise gelangt
-gelegentlich Wissen darüber über junge Menschen nach draußen, die bei den
-Firstborn aufwuchsen und später von einer Siedlung aufgenommen wurden — außer
-bei den wenigen Firstborn, die zu befremdlich/gefährlich dafür sind. Dieser
-Teil der Erzählung war akustisch nicht ganz eindeutig zu verstehen — bitte
-bei Gelegenheit noch einmal genauer ausführen.
+Über die Religion der **Broken** hat man dagegen zumindest eine ungefähre
+Vorstellung — auch wenn diese lückenhaft ist. Kinder, die im Alter von etwa
+acht bis zwölf Jahren nicht der Weltsicht ihres Broken-Stammes entsprechen
+oder als zu wahnsinnig gelten, werden meist getötet, gelegentlich aber auch
+verstoßen. Manche dieser Ausgestoßenen schaffen es in die „Zivilisation" der
+Ironlands. Aus ihren Erzählungen und ihrem bruchstückhaften Wissen — ergänzt
+durch eigene Beobachtung und Erfahrung im Umgang mit den Broken — hat sich
+so ein ungefähres Bild davon entwickelt, wie die Religion der Broken
+funktioniert.
+
+**Glaube erzeugt keine Macht.** Auch wenn die Götter real sind und Gebete
+gelegentlich erhört werden, entsteht aus dem Glauben selbst keine
+tatsächliche Macht. Nur Magiebegabte können durch mystizistische Rituale
+wirklich etwas in der Welt bewirken (siehe „Mysticism") — Priester nicht.
+Vermutlich haben sich beide Dinge in Teilen vermischt: Magie mit dem
+äußeren Anstrich eines religiösen Rituals, sodass es so wirkt, als würde
+der Glaube etwas bewirken — tatsächlich ist es aber der Mystizismus/
+Schamanismus dahinter, der wirkt.
 
 In den größeren, meist an der Küste gelegenen Siedlungen haben sich
 religiöse Enklaven mit Tempeln der alten Götter und eigenen Priesterschaften
