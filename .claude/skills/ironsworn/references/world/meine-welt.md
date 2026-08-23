@@ -29,9 +29,10 @@ in die Angelegenheiten des Nordens. Kriege um Ressourcen brachen aus, und die
 Flüchtlinge, die nach Süden drängten, wurden dort keineswegs immer gut
 aufgenommen.
 
-**Korrektur:** Der Exodus liegt inzwischen über 400 Jahre zurück (nicht wie
-zunächst notiert 80–120 Jahre — siehe Klärungsbedarf unten bei Communities).
-Diese lange Zeitspanne hat den Ironländern die Möglichkeit gegeben, eigene
+**Korrektur:** Der Exodus liegt über 400 Jahre zurück (nicht wie zunächst
+notiert 80–120 Jahre — die 80–120-Jahre-Angabe war ein Missverständnis
+meinerseits, siehe geklärte Zeitlinie unten bei Communities). Diese lange
+Zeitspanne hat den Ironländern die Möglichkeit gegeben, eigene
 Traditionen und eine eigene, von der alten Welt abweichende Kultur zu
 entwickeln. Dennoch orientieren sich einzelne Siedlungen unterschiedlich
 stark an einem der ehemaligen nördlichen Königreiche, je nachdem, woher ihre
@@ -85,6 +86,14 @@ andere Menschen in dieses Land, doch von ihnen ist nur noch ein wildes,
 verrohtes Volk übrig, das man die Broken nennt. Ist es auch das Schicksal
 der heutigen Siedler, eines Tages selbst zu den Broken zu werden?
 
+**Zeitlinie (geklärt):** Die Broken gehen auf einen eigenen, deutlich
+älteren Exodus zurück, über den nichts Näheres bekannt ist — er liegt lange,
+lange vor dem großen Exodus aus der alten Welt (400+ Jahre, siehe „The Old
+World"). Es sind also zwei völlig getrennte, zeitlich weit auseinander
+liegende Ereignisse: der uralte, unbekannte Exodus, aus dessen Siedlern die
+Broken wurden, und der spätere, gut dokumentierte Exodus der heutigen
+Ironländer.
+
 Daneben gibt es auch die Firstborn in den Ironlands — Details dazu siehe
 unten unter „Firstborn“.
 
@@ -101,8 +110,8 @@ die Primordials existieren, sind jedoch sehr selten und leben versteckt,
 ## Communities
 
 Die große Bevölkerungswanderung aus der alten Welt (siehe „The Old World“),
-die zur erneuten Besiedlung der Ironlands führte, liegt etwa 80 bis 120
-Jahre zurück — rund drei bis vier Generationen. Insgesamt sind die Ironlands
+die zur heutigen Besiedlung der Ironlands führte, liegt über 400 Jahre
+zurück. Insgesamt sind die Ironlands
 nach wie vor nur spärlich besiedelt: Es gibt einzelne kleine Dörfer und
 vereinzelt auch schon Circles, doch zwischen den Siedlungen liegen oft
 mehrere Tage Reise. An der Küste haben sich vermutlich bereits die ersten
@@ -110,16 +119,10 @@ größeren Siedlungen gebildet, mit vielleicht ein- bis zweitausend Menschen —
 mehr aber nicht. Im Landesinneren, in den Bergen und im Dschungel werden die
 Siedlungen dagegen zunehmend kleiner.
 
-**Klärungsbedarf — Zeitlinien-Konflikt:** Hier stand die große
-Bevölkerungswanderung ursprünglich bei 80–120 Jahren, jetzt wurde der Exodus
-selbst auf über 400 Jahre korrigiert (siehe „The Old World"). Sind das
-zwei getrennte Ereignisse — (1) der Exodus vor 400+ Jahren, dessen frühe
-Siedler zu den Broken wurden, und (2) eine spätere, zweite große
-Wanderungswelle vor 80–120 Jahren, die die Ironlands erneut/weiter
-besiedelte — oder ist es ein einziges Ereignis und die 80–120-Jahre-Angabe
-war schlicht falsch (dann wäre die gesamte heutige Besiedlung bereits
-400+ Jahre alt)? Bitte einmal klarstellen, das ändert einiges an der
-Besiedlungsgeschichte.
+**Zeitlinie (geklärt):** Die hier beschriebene Wanderung ist derselbe Exodus
+wie unter „The Old World" — 400+ Jahre her, nicht 80–120 Jahre wie zunächst
+notiert. Die Broken gehen auf ein davon unabhängiges, viel älteres und
+unbekanntes Ereignis zurück (siehe „Legacies").
 
 **Notiz:** Dschungel als Landschaftstyp im Landesinneren weicht vom
 offiziellen Ironlands-Atlas ab (dort eher kalt/rau, siehe
@@ -167,3 +170,35 @@ Stadtwache, aber durchaus Personen, die regelmäßig von der Führungsriege mit
 Aufgaben betraut werden: vor allem für den inneren Frieden und die Ordnung
 unter der Bevölkerung, gelegentlich auch als Begleitschutz für Handelszüge
 gegen Räuber.
+
+## Mysticism
+
+Magie ist selten, aber real bei wenigen Begabten. Diese werden teils
+gefürchtet, häufig aber auch als Segen für ihr Dorf empfunden — sie helfen
+etwa bei Heilung oder Ernte. Beim Exodus aus der alten Welt schafften es
+bereits ausgebildete Magier mit hinüber, vermutlich gerade weil sie
+aufgrund ihres Könnens oder des daraus entstandenen Reichtums eher in der
+Lage waren, die gefährliche Reise zu bewältigen.
+
+In den seither vergangenen 400 Jahren haben sich unter den dramatischen
+Umständen der Ironlands jedoch keine Institutionen wie Magier-Schulen
+gebildet. Alle heutigen Zauberer, Schamanen, Hexen und sonstigen
+Mystizismus-Kundigen lernen ihr Können auf einer Lehrer-Schüler-Ebene, von
+Person zu Person weitergegeben — nicht an Schulen. Manche erinnern sich
+vermutlich noch an Erzählungen aus der alten Zeit und wie es in den alten
+Königreichen war. Regeln und Wissen der ursprünglichen Magierschulen, die
+die ersten Lehrer einst in der alten Welt begründet hatten, wurden
+vermutlich über eine mündliche Tradition weitergegeben — durch Merksätze,
+Lieder oder Ähnliches, damit neue Schüler sich das Können einprägen können.
+
+Auch die Broken verfügen über eine eigene Art der Magie, eine Art
+Schamanismus mit eigenen Ritualen; manche mystisch Begabten haben in den
+letzten 400 Jahren versucht, diese zu verstehen. Auch die Elfen (Firstborn)
+besitzen eine eigene Art von Magie. Der Mystizismus der Ironlands wirkt
+insgesamt wie ein Stückwerk aus verschiedenen Quellen, das sich in Teilen
+bereits vermischt hat.
+
+Die meisten Magiebegabten, denen man heute begegnet, sind einfache Personen,
+die in einem Dorf oder einer größeren Siedlung leben und dort von der
+Führungsriege gehalten werden, um der Gemeinschaft zu dienen — und nehmen
+gelegentlich selbst Schüler auf.
