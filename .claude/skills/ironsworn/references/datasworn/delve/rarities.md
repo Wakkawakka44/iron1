@@ -1,7 +1,5 @@
 # Ironsworn: Delve — Rarities
 
-## Rarities
-
 ## Ayethin’s Journal
 
 This ancient tome was originally written by a legendary alchemist. In its curiously well-preserved pages, inscribed in an ink of unnatural intensity, are formulas for alchemical concoctions. New recipes occasionally appear unbidden, although the total number of pages never changes.

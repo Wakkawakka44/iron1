@@ -1,7 +1,5 @@
 # Ironsworn: Delve — Oracles
 
-## Oracles
-
 ## Character
 
 Set the initial disposition for a character, or reveal what activity they are focused on when you first encounter them.

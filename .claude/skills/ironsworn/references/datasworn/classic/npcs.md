@@ -1,7 +1,5 @@
 # Ironsworn Rulebook — Npcs
 
-## Npcs
-
 ## Ironlanders
 
 The __Ironlanders__ are the humans who have settled these lands.

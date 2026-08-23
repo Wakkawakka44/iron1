@@ -1,7 +1,5 @@
 # Ironsworn: Delve — Npcs
 
-## Npcs
-
 ## Ironlanders
 
 ### Husk

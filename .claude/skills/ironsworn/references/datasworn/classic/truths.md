@@ -1,12 +1,10 @@
 # Ironsworn Rulebook — Truths
 
-## Truths
-
 ## The Old World
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | The savage clans called the Skulde invaded the kingdoms of the Old World. Our armies fell. Most were killed or taken into slavery. Those who escaped set sail aboard anything that would float. After an arduous months-long voyage, the survivors made landfall upon the Ironlands. | You are a descendant of the Skulde. Because of your heritage, your family has long borne the distrust of your fellow Ironlanders. Now, a small force of Skulde have landed on our shores. Are they the harbinger of an invasion? Where do your loyalties lie?
 34-67 | The sickness moved like a horrible wave across the Old World, killing all in its path. Thousands fled aboard ships. However, the plague could not be outrun. On many ships, the disease was contained through ruthless measures—tossing overboard any who exhibited the slightest symptom. Other ships were forever lost. In the end, those who survived found the Ironlands and made it their new home. Some say we will forever be cursed by those we left behind. | A settlement is stricken by disease. Though this sickness bears some similarities to the Old World plague, it doesn’t kill its victims. Instead, it changes them. How does this disease manifest? Why do you swear to seek out a cure?
@@ -16,7 +14,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | The imposing hills and mountains of the Ironlands are rich in iron ore. Most prized of all is the star-forged black iron. | The caravan, bound for the distant southlands, left the mining settlement last season but never arrived at its destination. It carried a bounty of black iron. Why is finding this lost caravan so important to you?
 34-67 | The weather is bleak. Rain and wind sweep in from the ocean. The winters are long and bitter. One of the first settlers complained, "Only those made of iron dare live in this foul place" – and thus our land was named. | The harvest fell short. The unrelenting snows left the village isolated. The food is running out. What will you do to see these people through this harsh season?
@@ -26,7 +24,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | We are the first humans to walk these lands. | In the writings of one of the first settlers, there is a description of a glade in the heart of the Deep Wilds. The spirits of this place are said to grant a miraculous blessing. What boon does it bestow?
 34-67 | Other humans sailed here from the Old World untold years ago, but all that is left of them is a savage, feral people we call the broken. Is their fate to become our own? | You find a child—one of the broken. It is wounded, and hunted by others of its kind. Do you protect it, even at the risk of inviting the wrath of the broken tribes?
@@ -36,7 +34,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | We are few in number in this accursed land. Most rarely have contact with anyone outside our own small steading or village, and strangers are viewed with deep suspicion. | In the dead of winter, a desperate man arrives at a snowbound steading. He is wounded, hungry, and nearly frozen to death. His family has been taken. By whom? Will you brave the merciless winter to save them?
 34-67 | We live in communities called circles. These are settlements ranging in size from a steading with a few families to a village of several hundred. Some circles belong to nomadic folk. Some powerful circles might include a cluster of settlements. We trade (and sometimes feud) with other circles. | A decades-long feud between two circles has flared into open conflict. What is the cause of this dispute? Do you join in the fight, or swear to put a stop to it?
@@ -46,7 +44,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | Leadership is as varied as the people. Some communities are governed by the head of a powerful family. Or, they have a council of elders who make decisions and settle disputes. In others, the priests hold sway. For some, it is duels in the circle that decide. | You have vivid reoccurring dreams of an Ironlands city. It has strong stone walls, bustling markets, and a keep on a high hill. And so many people! Nowhere in the Ironlands does such a city exist. In your dreams, you are the ruler of this city. Somehow, no matter how long it takes, you must make this vision a reality.
 34-67 | Each of our communities has its own leader, called an overseer. Every seventh spring, the people affirm their current overseer or choose a new one. Some overseers wear the iron circlet reluctantly, while others thirst for power and gain it through schemes or threats. | An overseer has fallen ill. She is sure to die without help, and the illness is unknown to the village healer. Poison, or perhaps even foul magic, is suspected. The families in the community are now at each other’s throats as they position their preferred candidates to take up the iron circlet. Will you discover the truth of the overseer’s illness and restore her to health?
@@ -56,7 +54,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | Here in the Ironlands, supplies are too precious, and the lands are too sparsely populated, to support organized fighting forces. When a community is threatened, the people stand together to protect their own. | A settlement is unable, or unwilling, to defend itself against an imminent threat. Why? What peril do they face? What will you do to protect them?
 34-67 | The wardens are our soldiers, guards, and militia. They serve their communities by standing sentry, patrolling surrounding lands, and organizing defenses in times of crisis. Most have strong ties to their community. Others, called free wardens, are wandering mercenaries who hire on to serve a community or protect caravans. | You come upon a dying warden. She tells you of an important mission, and charges you with its completion. "Swear to me," she says, reaching out with a bloodied hand to give you an object crucial to the quest. What is it?
@@ -66,7 +64,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | Some still find comfort in the old ways. They call on mystics to divine the fortune of their newborn, or ask them to perform rituals to invoke a bountiful harvest. Others act out of fear against those who they suspect of having power. However, most folk believe true magic—if it ever existed—is lost to us now. | Someone close to you is accused of cursing a settlement, causing fields to go fallow and cattle to become sick. What is the evidence of this? Will you defend this person and uncover the true cause of the settlement’s troubles?
 68-100 | Magic is rare and dangerous, but those few who wield the power are truly gifted. | You have heard stories of someone who wields true power. They live in an isolated settlement far away. Who told you of this mystic? Are they feared or respected? Why do you swear to seek them out?
@@ -76,7 +74,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | A few Ironlanders still make signs or mumble prayers out of habit or tradition, but most believe the gods long ago abandoned us. | A charismatic Ironlander, encouraging her followers to renounce the vestiges of Old World religions, proposes a new path for this new world. What doctrine does she teach? What does she seek to achieve? Are you sworn to aid or stop her?
 34-67 | The people honor old gods and new. In this harsh land, a prayer is a simple but powerful comfort. | An Ironlander is determined to make a pilgrimage into dangerous lands. What holy place do they seek? Why do you swear to aid them on this journey? Who seeks to stop them and why?
@@ -86,7 +84,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | The firstborn have passed into legend. Some say the remnants of the old tribes still dwell in deep forests or high mountains. Most believe they were never anything more than myth. | Someone obsessed with the firstborn wants to find evidence of their existence. This will require an expedition into the far reaches of the Ironlands. What is your role in this mission?
 34-67 | The firstborn live in isolation and are fiercely protective of their own lands. | The elf, outcast from his kind, lives with Ironlanders. Over time, he became a part of the community. Now, he is dying. He yearns to return to his people before he passes. Does he seek absolution or justice? Why do you swear to help him? What force opposes his return?
@@ -96,7 +94,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | The beasts of old are nothing but legend. A few who travel into the deep forests and high mountains return with wild tales of monstrous creatures, but they are obviously delusional. No such things exist. | You were witness to an attack by what you thought was an animal of monstrous proportions. No one believes you. In fact, you are accused of the murder you blame on this beast. How can you prove your innocence? Can you even trust your own memories of the event?
 34-67 | Monstrous beasts stalk the wild areas of the Ironlands. | A prominent Ironlander is consumed with the need to bring vengeance upon a specific beast. What makes this creature distinctive? How did it earn the wrath of this Ironlander? Do you aid this person in their quest, or act to prevent their blind hate from destroying more than just the beast?
@@ -106,7 +104,7 @@ Roll | Result | Quest_Starter
 
 *Dice: 1d100*
 
-Roll | Result | Quest_Starter
+Roll | Result | Quest Starter
 ---|---|---
 1-33 | Nothing but stories to frighten children. | The murders began last season. Local gossip suggests they are the work of a vengeful horror, but there may be more mundane forces at work. What is your connection to these killings? What will you do to stop them?
 34-67 | We are wary of dark forests and deep waterways, for monsters lurk in those places. In the depths of the long-night, when all is wreathed in darkness, only fools venture beyond their homes. | You bear the scars of an attack by a horror. What was it? Are those scars physical, emotional, or both? How do you seek to make yourself whole again?

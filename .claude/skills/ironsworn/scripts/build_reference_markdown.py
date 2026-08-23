@@ -40,7 +40,8 @@ def esc(text):
 
 def render_range_table(rows, extra_cols=()):
     rows = [r for r in rows if isinstance(r, dict)]
-    lines = ["Roll | Result" + "".join(f" | {c.title()}" for c in extra_cols), "---|---" + "|---" * len(extra_cols)]
+    header_cols = [c.replace("_", " ").title() for c in extra_cols]
+    lines = ["Roll | Result" + "".join(f" | {c}" for c in header_cols), "---|---" + "|---" * len(extra_cols)]
     for row in rows:
         lo, hi = row.get("min"), row.get("max")
         rng = f"{lo}" if lo == hi else f"{lo}-{hi}"
@@ -83,18 +84,51 @@ def render_leaf(node, depth):
                 out.append("\n".join(f"- {esc(i)}" for i in items) + "\n")
 
     if isinstance(node.get("denizens"), list) and node["denizens"]:
+        # Denizen entries reference an NPC by id (e.g. "classic/npcs/ironlanders/raider")
+        # rather than embedding a name/rank directly; an explicit "name" overrides it.
         out.append("**Denizens**\n")
-        lines = ["Roll | Name | Rank", "---|---|---"]
+        lines = ["Roll | NPC | Frequency", "---|---|---"]
         for d in node["denizens"]:
             lo, hi = d.get("min"), d.get("max")
             rng = f"{lo}" if lo == hi else f"{lo}-{hi}"
-            lines.append(f"{rng} | {esc(d.get('name'))} | {esc(d.get('rank'))}")
+            if d.get("name"):
+                label = esc(d["name"])
+            elif d.get("npc"):
+                label = " / ".join(p.replace("_", " ").title() for p in d["npc"].split("/")[-2:])
+            else:
+                label = "—"
+            freq = esc(d.get("frequency", "")).replace("_", " ")
+            lines.append(f"{rng} | {label} | {freq}")
         out.append("\n".join(lines) + "\n")
 
     if isinstance(node.get("abilities"), list) and node["abilities"]:
         for ab in node["abilities"]:
             if ab.get("text"):
-                out.append(f"- {ab['text']}\n")
+                prefix = f"**{ab['name']}:** " if ab.get("name") else ""
+                out.append(f"- {prefix}{ab['text']}\n")
+
+    controls = node.get("controls")
+    if isinstance(controls, dict) and controls:
+        out.append("**Controls**\n")
+        for cname, c in controls.items():
+            label = esc(c.get("label", cname))
+            ft = c.get("field_type")
+            if ft == "condition_meter":
+                out.append(f"- {label} (0-{c.get('max')}, start {c.get('value')})")
+            elif ft == "select_enhancement" and isinstance(c.get("choices"), dict):
+                choice_labels = ", ".join(esc(ch.get("label", k)) for k, ch in c["choices"].items())
+                out.append(f"- {label}: {choice_labels}")
+            elif ft in ("select_value", "select_stat") and isinstance(c.get("choices"), dict):
+                choice_labels = ", ".join(esc(ch.get("label", k)) for k, ch in c["choices"].items())
+                out.append(f"- {label} (choose): {choice_labels}")
+            else:
+                out.append(f"- {label}")
+        out.append("")
+
+    options = node.get("options")
+    if isinstance(options, dict) and options:
+        fields = ", ".join(esc(o.get("label", k)) for k, o in options.items())
+        out.append(f"**Fields:** {fields}\n")
 
     for field in ("quest_starter", "your_character"):
         if node.get(field):
@@ -148,26 +182,22 @@ def walk_flat_dict(d, depth, out):
 
 def render_section(key, data, out):
     if key == "rules":
-        out.append("## Rules\n")
         for sub in ("stats", "condition_meters", "special_tracks"):
             if sub in data:
-                out.append(f"### {sub.replace('_', ' ').title()}\n")
-                walk_flat_dict(data[sub], 1, out)
+                out.append(f"## {sub.replace('_', ' ').title()}\n")
+                walk_flat_dict(data[sub], 0, out)
         if "impacts" in data:
-            out.append("### Impacts\n")
+            out.append("## Impacts\n")
             for cat in data["impacts"].values():
-                walk(cat, 1, out)
+                walk(cat, 0, out)
         return
 
     if key == "truths":
-        out.append("## Truths\n")
         for truth in data.values():
             walk(truth, 0, out)
         return
 
     # Generic: dict of top-level category name -> collection/leaf tree
-    label = key.replace("_", " ").title()
-    out.append(f"## {label}\n")
     for child in data.values():
         walk(child, 0, out)
 

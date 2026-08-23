@@ -1,7 +1,5 @@
 # Ironsworn Rulebook — Atlas
 
-## Atlas
-
 ## The Ironlands
 
 The Ironlands is a rugged peninsula of isolated settlements and untracked wilds on the frontier of the known world. Two generations ago, your people settled here when a cataclysm drove them from their former homes.

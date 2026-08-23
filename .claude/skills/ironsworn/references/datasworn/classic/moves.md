@@ -1,7 +1,5 @@
 # Ironsworn Rulebook — Moves
 
-## Moves
-
 ## Adventure Moves
 
 Adventure moves are used as you travel the Ironlands, investigate situations, and deal with threats.

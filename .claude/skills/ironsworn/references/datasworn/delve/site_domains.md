@@ -1,7 +1,5 @@
 # Ironsworn: Delve — Site Domains
 
-## Site Domains
-
 ## Barrow
 
 The dead are enshrined here.

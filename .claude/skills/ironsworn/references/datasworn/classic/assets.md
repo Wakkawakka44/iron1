@@ -1,7 +1,5 @@
 # Ironsworn Rulebook — Assets
 
-## Assets
-
 ## Combat Talent Assets
 
 *Ironsworn* characters are assumed to be skilled fighters. Even without a combat talent, you can wield weapons and perform [combat moves](id:classic/collections/moves/combat). A combat talent reflects a particular area of expertise, and gives you additional options and bonuses.
@@ -82,6 +80,10 @@ Combat talent assets typically require you to wield a specific weapon, as noted 
 
 - When you [Compel](id:classic/moves/relationship/compel) in a situation where strength of arms is a factor, add +2.
 
+**Controls**
+
+- equipped: lightly armored, geared for war
+
 ### Long-Arm
 
 - In your hands, a humble staff is a deadly weapon (2 harm). When you instead use it as a simple weapon (1 harm), you may [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) +edge (instead of iron). If you do, add +1 and take +1 momentum on a hit.
@@ -152,83 +154,143 @@ Companions utilize a health track and may suffer harm as a result of one of your
 
 ### Cave Lion
 
-- When your cat chases down big game, you may [Resupply](id:classic/moves/adventure/resupply) with +edge (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.
+- **Eager:** When your cat chases down big game, you may [Resupply](id:classic/moves/adventure/resupply) with +edge (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.
 
-- When you [Enter the Fray](id:classic/moves/combat/enter_the_fray) or [Strike](id:classic/moves/combat/strike) by sending your cat to attack, roll +edge. On a hit, take +2 momentum.
+- **Inescapable:** When you [Enter the Fray](id:classic/moves/combat/enter_the_fray) or [Strike](id:classic/moves/combat/strike) by sending your cat to attack, roll +edge. On a hit, take +2 momentum.
 
-- When you [Make Camp](id:classic/moves/adventure/make_camp), your cat is alert to trouble. If you or an ally choose to relax, take +1 spirit. If you focus, take +1 momentum.
+- **Protective:** When you [Make Camp](id:classic/moves/adventure/make_camp), your cat is alert to trouble. If you or an ally choose to relax, take +1 spirit. If you focus, take +1 momentum.
+
+**Controls**
+
+- health (0-4, start 4)
+
+**Fields:** name
 
 ### Giant Spider
 
-- When you [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) by sending your spider to scout a place, add +1 and take +1 momentum on a hit.
+- **Discreet:** When you [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) by sending your spider to scout a place, add +1 and take +1 momentum on a hit.
 
-- You may [Face Danger](id:classic/moves/adventure/face_danger) +shadow by sending your spider to secretly study someone. On a hit, the spider returns to reveal the target’s deepest fears through a reflection in its glassy eyes. Use this to [Gather Information](id:classic/moves/adventure/gather_information) and reroll any dice.
+- **Soul-Piercing:** You may [Face Danger](id:classic/moves/adventure/face_danger) +shadow by sending your spider to secretly study someone. On a hit, the spider returns to reveal the target’s deepest fears through a reflection in its glassy eyes. Use this to [Gather Information](id:classic/moves/adventure/gather_information) and reroll any dice.
 
-- When your spider sets a trap, add +1 as you [Enter the Fray](id:classic/moves/combat/enter_the_fray) +shadow. On a strong hit, also inflict 2 harm.
+- **Ensnaring:** When your spider sets a trap, add +1 as you [Enter the Fray](id:classic/moves/combat/enter_the_fray) +shadow. On a strong hit, also inflict 2 harm.
+
+**Controls**
+
+- health (0-4, start 4)
+
+**Fields:** name
 
 ### Hawk
 
-- When you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey), or when you [Resupply](id:classic/moves/adventure/resupply) by hunting for small game, add +1.
+- **Far-seeing:** When you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey), or when you [Resupply](id:classic/moves/adventure/resupply) by hunting for small game, add +1.
 
-- When you [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) +edge using your hawk to harass and distract your foes, add +1 and take +1 momentum on a hit.
+- **Fierce:** When you [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) +edge using your hawk to harass and distract your foes, add +1 and take +1 momentum on a hit.
 
-- When you [Face Danger](id:classic/moves/adventure/face_danger) +wits to detect an approaching threat, or when you [Enter the Fray](id:classic/moves/combat/enter_the_fray) +wits against an ambush, add +2.
+- **Vigilant:** When you [Face Danger](id:classic/moves/adventure/face_danger) +wits to detect an approaching threat, or when you [Enter the Fray](id:classic/moves/combat/enter_the_fray) +wits against an ambush, add +2.
+
+**Controls**
+
+- health (0-3, start 3)
+
+**Fields:** name
 
 ### Horse
 
-- When you [Face Danger](id:classic/moves/adventure/face_danger) +edge using your horse’s speed and grace, or when you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey), add +1.
+- **Swift:** When you [Face Danger](id:classic/moves/adventure/face_danger) +edge using your horse’s speed and grace, or when you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey), add +1.
 
-- When you [Enter the Fray](id:classic/moves/combat/enter_the_fray) or [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) +heart by charging into combat, add +1 and take +1 momentum on a hit.
+- **Fearless:** When you [Enter the Fray](id:classic/moves/combat/enter_the_fray) or [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) +heart by charging into combat, add +1 and take +1 momentum on a hit.
 
-- When you [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) at close range while mounted, add +1 and inflict +1 harm on a hit.
+- **Mighty:** When you [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) at close range while mounted, add +1 and inflict +1 harm on a hit.
+
+**Controls**
+
+- health (0-5, start 5)
+
+**Fields:** name
 
 ### Hound
 
-- When you [Gather Information](id:classic/moves/adventure/gather_information) using your hound’s keen senses to track your quarry or investigate a scene, add +1 and take +1 momentum on a hit.
+- **Sharp:** When you [Gather Information](id:classic/moves/adventure/gather_information) using your hound’s keen senses to track your quarry or investigate a scene, add +1 and take +1 momentum on a hit.
 
-- When you [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) alongside your hound and score a hit, inflict +1 harm or take +1 momentum.
+- **Ferocious:** When you [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) alongside your hound and score a hit, inflict +1 harm or take +1 momentum.
 
-- When you [Endure Stress](id:classic/moves/suffer/endure_stress) in the company of your hound, add +1.
+- **Loyal:** When you [Endure Stress](id:classic/moves/suffer/endure_stress) in the company of your hound, add +1.
+
+**Controls**
+
+- health (0-4, start 4)
+
+**Fields:** name
 
 ### Kindred
 
-- When you make a move outside of combat aided by your companion’s expertise, add +1.
+- **Skilled:** When you make a move outside of combat aided by your companion’s expertise, add +1.
 
-- When you [Clash](id:classic/moves/combat/clash) or [Battle](id:classic/moves/combat/battle) alongside your companion, or when you [Face Danger](id:classic/moves/adventure/face_danger) against an attack by standing together, add +1.
+- **Shield-Kin:** When you [Clash](id:classic/moves/combat/clash) or [Battle](id:classic/moves/combat/battle) alongside your companion, or when you [Face Danger](id:classic/moves/adventure/face_danger) against an attack by standing together, add +1.
 
-- Once you mark a bond with your companion, add +1 when you [Face Desolation](id:classic/moves/suffer/face_desolation) in their presence.
+- **Bonded:** Once you mark a bond with your companion, add +1 when you [Face Desolation](id:classic/moves/suffer/face_desolation) in their presence.
+
+**Controls**
+
+- health (0-4, start 4)
+
+**Fields:** name
 
 ### Mammoth
 
-- When your mammoth travels with you as you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey), you may add +2 but suffer -1 momentum (decide before rolling).
+- **Lumbering:** When your mammoth travels with you as you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey), you may add +2 but suffer -1 momentum (decide before rolling).
 
-- When you make a move which requires you to roll +supply, you may instead roll +your mammoth’s health.
+- **Beast of burden:** When you make a move which requires you to roll +supply, you may instead roll +your mammoth’s health.
 
-- When you [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) by riding your mammoth against a pack of foes, add +1 and inflict +1 harm on a hit.
+- **Overpowering:** When you [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) by riding your mammoth against a pack of foes, add +1 and inflict +1 harm on a hit.
+
+**Controls**
+
+- health (0-5, start 5)
+
+**Fields:** name
 
 ### Owl
 
-- If you [Resupply](id:classic/moves/adventure/resupply) at night by sending your owl to hunt, take +2 momentum on a hit. When you [Enter the Fray](id:classic/moves/combat/enter_the_fray) +wits against an ambush in darkness, add +1 and take +1 momentum on a hit.
+- **Nocturnal:** If you [Resupply](id:classic/moves/adventure/resupply) at night by sending your owl to hunt, take +2 momentum on a hit. When you [Enter the Fray](id:classic/moves/combat/enter_the_fray) +wits against an ambush in darkness, add +1 and take +1 momentum on a hit.
 
-- When you leverage your owl’s secret knowledge to perform a ritual, add +1 or take +1 momentum on a hit (decide before rolling).
+- **Sage:** When you leverage your owl’s secret knowledge to perform a ritual, add +1 or take +1 momentum on a hit (decide before rolling).
 
-- When you [Face Death](id:classic/moves/suffer/face_death), take your owl’s health as +momentum before you roll.
+- **Embodying:** When you [Face Death](id:classic/moves/suffer/face_death), take your owl’s health as +momentum before you roll.
+
+**Controls**
+
+- health (0-3, start 3)
+
+**Fields:** name
 
 ### Raven
 
-- When you [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) or [Face Danger](id:classic/moves/adventure/face_danger) +shadow using your raven to perform trickery (such as creating a distraction or stealing a small object) add +1 and take +1 momentum on a hit.
+- **Sly:** When you [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) or [Face Danger](id:classic/moves/adventure/face_danger) +shadow using your raven to perform trickery (such as creating a distraction or stealing a small object) add +1 and take +1 momentum on a hit.
 
-- When you [Face Death](id:classic/moves/suffer/face_death), add +2 and take +1 momentum on a hit.
+- **Knowing:** When you [Face Death](id:classic/moves/suffer/face_death), add +2 and take +1 momentum on a hit.
 
-- When your raven carries messages for you, you may [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage), [Gather Information](id:classic/moves/adventure/gather_information), or [Compel](id:classic/moves/relationship/compel) from a distance.
+- **Diligent:** When your raven carries messages for you, you may [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage), [Gather Information](id:classic/moves/adventure/gather_information), or [Compel](id:classic/moves/relationship/compel) from a distance.
+
+**Controls**
+
+- health (0-2, start 2)
+
+**Fields:** name
 
 ### Young Wyvern
 
-- When you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey) and score a hit, you may suffer -1 supply in exchange for +2 momentum.
+- **Insatiable:** When you [Undertake a Journey](id:classic/moves/adventure/undertake_a_journey) and score a hit, you may suffer -1 supply in exchange for +2 momentum.
 
-- When you make the [Companion Endure Harm](id:classic/moves/suffer/companion_endure_harm) move for your wyvern, add +2 and take +1 momentum on a hit.
+- **Indomitable:** When you make the [Companion Endure Harm](id:classic/moves/suffer/companion_endure_harm) move for your wyvern, add +2 and take +1 momentum on a hit.
 
-- When you [Strike](id:classic/moves/combat/strike) by commanding your wyvern to attack, roll +heart. Your wyvern inflicts 3 harm on a hit.
+- **Savage:** When you [Strike](id:classic/moves/combat/strike) by commanding your wyvern to attack, roll +heart. Your wyvern inflicts 3 harm on a hit.
+
+**Controls**
+
+- health (0-5, start 5)
+
+**Fields:** name
 
 ## Path Assets
 
@@ -260,6 +322,8 @@ Paths represent your background, interests, training, and skills. They provide m
 
 - When you [Enter the Fray](id:classic/moves/combat/enter_the_fray) bearing your banner, add +1 and take +1 momentum on a hit. When you burn momentum while carrying your banner in combat, take +1 momentum after you reset.
 
+**Fields:** name
+
 ### Battle-Scarred
 
 - You focus your energies: Reduce your edge or iron by 1 and add +2 to wits or heart, or +1 to each (to a maximum of +4).
@@ -275,6 +339,8 @@ Paths represent your background, interests, training, and skills. They provide m
 - When you [Gather Information](id:classic/moves/adventure/gather_information) by listening to the whispers of your kin-blade, add +1 and take +2 momentum on a hit. Then, [Endure Stress](id:classic/moves/suffer/endure_stress) (2 stress).
 
 - When you [Strike](id:classic/moves/combat/strike) with your kin-blade to inflict savage harm (decide before rolling), add +1 and inflict +2 harm on a hit. Then, [Endure Stress](id:classic/moves/suffer/endure_stress) (2 stress).
+
+**Fields:** name
 
 ### Bonded
 
@@ -292,6 +358,10 @@ Paths represent your background, interests, training, and skills. They provide m
 
 - Once you [Forge a Bond](id:classic/moves/relationship/forge_a_bond) with your warband, take +1 momentum on a hit when you leverage a warband ability.
 
+**Controls**
+
+- strength (0-4, start 4)
+
 ### Dancer
 
 - When you [Secure an Advantage](id:classic/moves/adventure/secure_an_advantage) +edge by dancing for an audience, add +1 and take +2 momentum on a hit. On a strong hit, also add +2 (one time only) if you make a move to interact with someone in the audience.
@@ -308,6 +378,8 @@ Paths represent your background, interests, training, and skills. They provide m
 
 - When you [Sojourn](id:classic/moves/relationship/sojourn) by sharing the word of your god, you may roll +your god’s stat. If you do, take +1 momentum on a hit.
 
+**Fields:** god's name, stat
+
 ### Empowered
 
 - When you [Sojourn](id:classic/moves/relationship/sojourn) and score a weak hit or miss, you may claim the rights of hospitality warranted by your title or lineage. If you do, roll all dice again and add +1. On a miss, you are refused, and your presumption causes significant new trouble.
@@ -315,6 +387,8 @@ Paths represent your background, interests, training, and skills. They provide m
 - When you exert your title or lineage to [Compel](id:classic/moves/relationship/compel), add +1 and take +1 momentum on a hit.
 
 - When you forgo your title or lineage and [Forge a Bond](id:classic/moves/relationship/forge_a_bond) as an equal, or when you [Swear an Iron Vow](id:classic/moves/quest/swear_an_iron_vow) to serve someone of a lower station, add +1 and take +1 momentum or +1 spirit on a hit.
+
+**Fields:** title/lineage
 
 ### Fated
 
@@ -331,6 +405,10 @@ Paths represent your background, interests, training, and skills. They provide m
 - When in a community or trading, you may suffer -1 wealth and take +2 supply.
 
 - When you [Resupply](id:classic/moves/adventure/resupply) by scavenging or looting, and score a strong hit with a match, you may envision finding an object of value. If you do, take +1 supply (instead of +2) and +1 wealth.
+
+**Controls**
+
+- wealth (0-5, start 0)
 
 ### Herbalist
 
@@ -397,6 +475,8 @@ When you wear the mask and make a move which uses its stat, add +1. If you roll 
 - As above, and you may instead add +2 and suffer -2 (decide before rolling).
 
 - When you [Face Death](id:classic/moves/suffer/face_death) or [Face Desolation](id:classic/moves/suffer/face_desolation) while wearing the mask, you may roll +its stat (instead of +heart).
+
+**Fields:** material
 
 ### Oathbreaker
 
@@ -555,6 +635,8 @@ When you wear the mask and make a move which uses its stat, add +1. If you roll 
 
 - When you give the item you create as a gift to commemorate an important event or relationship, you may (one time only) reroll any dice when you [Compel](id:classic/moves/relationship/compel), [Forge a Bond](id:classic/moves/relationship/forge_a_bond), or [Test Your Bond](id:classic/moves/relationship/test_your_bond).
 
+**Fields:** specialty
+
 ## Ritual Assets
 
 Magic in *Ironsworn* is cast through rituals which help support your actions or act as unique moves. Like all assets, rituals can be selected as you gain experience and can be upgraded over time to make them more flexible or powerful.
@@ -576,6 +658,10 @@ All rituals utilize a move as their default marked ability. You must make this m
 - Your simulacrum has 6 health.
 
 - When you perform this ritual, add +1 and take +1 momentum on a hit.
+
+**Controls**
+
+- health (0-3, start 3)
 
 ### Bind
 
@@ -609,6 +695,10 @@ All rituals utilize a move as their default marked ability. You must make this m
 
 - When you perform this ritual, add +1 and take +1 essence on a hit.
 
+**Controls**
+
+- essence (0-6, start 0)
+
 ### Keen
 
 - When you hold a weapon and sing a keen for those it has killed, roll +heart. On a strong hit, the wielder inflicts +1 harm when they [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash). If they roll a 1 on their action die when making a move to inflict harm, the magic is spent. On a weak hit, as above, but the voices of those who were slain join in your song; [Endure Stress](id:classic/moves/suffer/endure_stress) (2 stress).
@@ -632,6 +722,10 @@ All rituals utilize a move as their default marked ability. You must make this m
 - You may use your light to [Strike](id:classic/moves/combat/strike) or [Clash](id:classic/moves/combat/clash) against a dark-dwelling foe. Choose the amount of light to unleash, and roll +light (instead of +iron or +edge). Suffer -light equal to that amount. On a hit, your harm is 1+your unleashed light.
 
 - When you perform this ritual, add +1 and take +1 momentum on a hit.
+
+**Controls**
+
+- light (0-6, start 0)
 
 ### Scry
 

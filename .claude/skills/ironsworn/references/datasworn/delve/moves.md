@@ -1,7 +1,5 @@
 # Ironsworn: Delve — Moves
 
-## Moves
-
 ## Delve Moves
 
 As you explore a perilous site, you’ll trigger moves. The moves included with this supplement help you resolve the outcome of your expedition—whether you make progress, and what dangers or opportunities you encounter.

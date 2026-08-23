@@ -1,7 +1,5 @@
 # Ironsworn: Delve — Delve Sites
 
-## Delve Sites
-
 ## Alva's Rest
 
 In life, Alva the Reaver was a leader of raiders and a merciless fighter, revered and respected by her followers. In death, she has become much more. Alva was laid to rest months ago after falling to the blade of a village defender. Driven to lead and protect her war-kin even beyond death, she returned as a wight, and resumed command of the raiding band. They established an outpost in this barrow which once served as her tomb.
@@ -12,20 +10,20 @@ The raiders strike out at villages, returning to the barrow with their spoils to
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 | Alva | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Ironlanders / Raider | very common
+28-41 | Ironlanders / Zealot | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Ironlanders / Mystic | uncommon
+76-81 | Horrors / Bonewalker | uncommon
+82-87 | Horrors / Blighthound | uncommon
+88-93 | — | uncommon
+94-95 | Alva | rare
+96-97 | Horrors / Bonehorde | rare
+98-99 | — | rare
+100 | — | unforeseen
 
 - **Region:** classic/atlas/ironlands/havens
 - **Theme:** delve/site_themes/fortified
@@ -40,20 +38,20 @@ Recently, the beasts of the hills have taken to the tunnels, drawn there inexpli
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Animals / Wolf | very common
+28-41 | Animals / Bladewing | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Animals / Cave Lion | uncommon
+76-81 | Animals / Bear | uncommon
+82-87 | Ironlanders / Common Folk | uncommon
+88-93 | — | uncommon
+94-95 | Ironlanders / Hunter | rare
+96-97 | Beasts / Elder Beast | rare
+98-99 | — | rare
+100 | Firstborn / Primordial | unforeseen
 
 - **Region:** classic/atlas/ironlands/tempest_hills
 - **Theme:** delve/site_themes/wild
@@ -68,20 +66,20 @@ Skeletal remains seem to reach from their resting places among gnarled roots, an
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Horrors / Bonewalker | very common
+28-41 | Horrors / Haunt | common
+42-55 | Animals / Wolf | common
+56-69 | — | common
+70-75 | Horrors / Blighthound | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Bonehorde | rare
+96-97 | Anomalies / Blood Thorn | rare
+98-99 | — | rare
+100 | Ironlanders / Husk | unforeseen
 
 - **Region:** classic/atlas/ironlands/deep_wilds
 - **Theme:** delve/site_themes/haunted
@@ -98,20 +96,20 @@ The darkness within is absolute. The descent unending. What secrets lie in the u
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Animals / Nightmare Spider | very common
+28-41 | Animals / Bladewing | common
+42-55 | Animals / Deep Rat | common
+56-69 | — | common
+70-75 | Ironlanders / Broken | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Chitter | rare
+96-97 | Animals / Trog | rare
+98-99 | — | rare
+100 | Beasts / Wyrm | unforeseen
 
 - **Region:** classic/atlas/ironlands/hinterlands
 - **Theme:** delve/site_themes/ancient
@@ -128,20 +126,20 @@ A perpetual storm seems to hang over the marsh, its dark clouds roiling. Could t
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Ironlanders / Zealot | very common
+28-41 | Animals / Marsh Rat | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Beasts / Harrow Spider | uncommon
+76-81 | Horror / Bog Rot | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Basilisk | rare
+96-97 | Horrors / Sodden | rare
+98-99 | — | rare
+100 | Horrors / Chimera | unforeseen
 
 - **Region:** classic/atlas/ironlands/flooded_lands
 - **Theme:** delve/site_themes/hallowed
@@ -156,20 +154,20 @@ What horrors befell the group can only be guessed. All that remained of their ma
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Horrors / Frostbound | very common
+28-41 | Horrors / Haunt | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Beasts / Mammoth | uncommon
+76-81 | Firstborn / Giant | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Animals / Wolf | rare
+96-97 | Animals / Cave Lion | rare
+98-99 | — | rare
+100 | Anomalies / Tempest | unforeseen
 
 - **Region:** classic/atlas/ironlands/tempest_mountains
 - **Theme:** delve/site_themes/haunted
@@ -184,20 +182,20 @@ Recently, folk have undertaken pilgrimages to this sea cave. They say the nights
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 | Mother nightspawn | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Ironlanders / Zealot | very common
+28-41 | Beasts / Nightspawn | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Firstborn / Merrow | uncommon
+76-81 | Animals / Shroud Crab | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Mother nightspawn | rare
+96-97 | Ironlanders / Husk | rare
+98-99 | — | rare
+100 | Anomalies / Maelstrom | unforeseen
 
 - **Region:** classic/atlas/ironlands/ragged_coast
 - **Theme:** delve/site_themes/corrupted
@@ -214,20 +212,20 @@ A large tribe of broken also live here, sheltered in an [Ancient](id:delve/site_
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Ironlanders / Raiders | very common
+28-41 | Animals / Wolf | common
+42-55 | Ironlanders / Broken | common
+56-69 | — | common
+70-75 | Animals / Bear | uncommon
+76-81 | Horrors / Frostbound | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Anomalies / Tempest | rare
+96-97 | Beasts / Rhaskar | rare
+98-99 | — | rare
+100 | Firstborn / Primordial | unforeseen
 
 - **Region:** classic/atlas/ironlands/shattered_wastes
 - **Theme:** delve/site_themes/fortified
@@ -244,20 +242,20 @@ Some say the giants unleashed a long-buried power. Did this cause the cataclysm 
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 | Frostbound giant | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | — | very common
+28-41 | Frostbound giant | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Firstborn / Primordial | uncommon
+76-81 | Beasts / Iron Wracked Beast | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Haunt | rare
+96-97 | Beasts / Nightspawn | rare
+98-99 | — | rare
+100 | Beasts / Wyrm | unforeseen
 
 - **Region:** classic/atlas/ironlands/shattered_wastes
 - **Theme:** delve/site_themes/ravaged
@@ -274,20 +272,20 @@ Time passed. Memories of Zhan’s reign of terror faded into legend. But some sa
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 | Zhan the Bloodied | 
-98-99 |  | 
-100 |  | 
+1-27 | Horrors / Bonewalker | very common
+28-41 | Horrors / Haunt | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Horrors / Bonehorde | uncommon
+76-81 | Horrors / Blighthound | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Iron Revenant | rare
+96-97 | Zhan the Bloodied | rare
+98-99 | — | rare
+100 | — | unforeseen
 
 - **Region:** classic/atlas/ironlands/havens
 - **Theme:** delve/site_themes/haunted
@@ -304,20 +302,20 @@ Last year, a band of raiders took up residence within the outer halls of the und
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 | Kayu the Bold | 
-98-99 |  | 
-100 |  | 
+1-27 | Ironlanders / Raider | very common
+28-41 | Horrors / Bonewalker | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Animals / Trog | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Haunt | rare
+96-97 | Kayu the Bold | rare
+98-99 | — | rare
+100 | Beasts / Nightspawn | unforeseen
 
 - **Region:** classic/atlas/ironlands/barrier_islands
 - **Theme:** delve/site_themes/ancient
@@ -332,20 +330,20 @@ The animals and beasts who dwell here fight their own battles for survival. The 
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 | common folk - sailors | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Animals / Wolf | very common
+28-41 | Animals / Bear | common
+42-55 | Firstborn / Atanya | common
+56-69 | — | common
+70-75 | Animals / Shroud Crab | uncommon
+76-81 | common folk - sailors | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Wyvern | rare
+96-97 | Beasts / Rhaskar | rare
+98-99 | — | rare
+100 | — | unforeseen
 
 - **Region:** classic/atlas/ironlands/ragged_coast
 - **Theme:** delve/site_themes/wild
@@ -360,20 +358,20 @@ Other creatures followed the chitters into the tunnels, and the place is overrun
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 | Common folk - miner | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Beasts / Chitter | very common
+28-41 | Animals / Deep Rat | common
+42-55 | Animals / Nightmare Spider | common
+56-69 | — | common
+70-75 | Animals / Trog | uncommon
+76-81 | Animals / Bladewing | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Common folk - miner | rare
+96-97 | — | rare
+98-99 | — | rare
+100 | — | unforeseen
 
 - **Region:** classic/atlas/ironlands/veiled_mountains
 - **Theme:** delve/site_themes/infested
@@ -388,20 +386,20 @@ But there is a darker truth here. The settlement was built directly on top of an
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Animals / Deep Rat | very common
+28-41 | Beasts / Nightspawn | common
+42-55 | Animals / Nightmare Spider | common
+56-69 | — | common
+70-75 | Animals / Trog | uncommon
+76-81 | Horrors / Chimera | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Bonewalker | rare
+96-97 | — | rare
+98-99 | — | rare
+100 | — | unforeseen
 
 - **Region:** classic/atlas/ironlands/havens
 - **Theme:** delve/site_themes/corrupted
@@ -418,20 +416,20 @@ What brings the merrow to this place, and what hidden dangers lurk within its de
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Firstborn / Merrow | very common
+28-41 | Animals / Shroud Crab | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Horrors / Sodden | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Anomalies / Maelstrom | rare
+96-97 | Firstborn / Primordial | rare
+98-99 | — | rare
+100 | Beasts / Kraken | unforeseen
 
 - **Region:** classic/atlas/ironlands/ragged_coast
 - **Theme:** delve/site_themes/ravaged
@@ -446,20 +444,20 @@ Mystics speak of visions of the primordial’s heart at the center of the wood. 
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Firstborn / Varou | very common
+28-41 | Animals / Bear | common
+42-55 | Animals / Wolf | common
+56-69 | Animals / Boar | common
+70-75 | Beasts / Gnarl | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Elder Beast | rare
+96-97 | — | rare
+98-99 | — | rare
+100 | Anomalies / Blood Thorn | unforeseen
 
 - **Region:** classic/atlas/ironlands/havens
 - **Theme:** delve/site_themes/ravaged
@@ -474,20 +472,20 @@ In some skirmishes, the dead outnumber the living. Soon, perhaps only the twice-
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Firstborn / Elf | very common
+28-41 | Horrors / Bonewalker | common
+42-55 | Horrors / Hollow | common
+56-69 | — | common
+70-75 | Horrors / Haunt | uncommon
+76-81 | Animals / Marsh Rat | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Chimera | rare
+96-97 | Beasts / Basilisk | rare
+98-99 | — | rare
+100 | Firstborn / Primordial | unforeseen
 
 - **Region:** classic/atlas/ironlands/havens
 - **Theme:** delve/site_themes/haunted
@@ -504,20 +502,20 @@ The strange tower, nearly complete, now looms over the valley. There’s a hum i
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 | Kord the Stonewright | 
-98-99 |  | 
-100 |  | 
+1-27 | Ironlanders / Zealot | very common
+28-41 | Ironlanders / Common Folk | common
+42-55 | Ironlanders / Warrior | common
+56-69 | — | common
+70-75 | Ironlanders / Mystic | uncommon
+76-81 | Horrors / Haunt | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Thrall | rare
+96-97 | Kord the Stonewright | rare
+98-99 | — | rare
+100 | — | unforeseen
 
 - **Region:** classic/atlas/ironlands/havens
 - **Theme:** delve/site_themes/hallowed
@@ -532,20 +530,20 @@ A colony of bladewings, emerging to hunt under cover of darkness, roost within t
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Animals / Bladewing | very common
+28-41 | Animals / Marsh Rat | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Beasts / Harrow Spider | uncommon
+76-81 | Horrors / Sodden | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Firstborn / Troll | rare
+96-97 | Animals / Carrion Newt | rare
+98-99 | — | rare
+100 | — | unforeseen
 
 - **Region:** classic/atlas/ironlands/flooded_lands
 - **Theme:** delve/site_themes/infested
@@ -560,20 +558,20 @@ A clan of [giants](id:classic/npcs/firstborn/giant) now live here, drawn to the 
 
 **Denizens**
 
-Roll | Name | Rank
+Roll | NPC | Frequency
 ---|---|---
-1-27 |  | 
-28-41 |  | 
-42-55 |  | 
-56-69 |  | 
-70-75 |  | 
-76-81 |  | 
-82-87 |  | 
-88-93 |  | 
-94-95 |  | 
-96-97 |  | 
-98-99 |  | 
-100 |  | 
+1-27 | Ironlanders / Broken | very common
+28-41 | Firstborn / Giant | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Horrors / Frostbound | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Wyvern | rare
+96-97 | Anomalies / Circle Of Stones | rare
+98-99 | Animals / Bear | rare
+100 | Firstborn / Primordial | unforeseen
 
 - **Region:** classic/atlas/ironlands/veiled_mountains
 - **Theme:** delve/site_themes/ancient

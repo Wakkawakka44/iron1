@@ -1,7 +1,5 @@
 # Ironsworn: Delve — Site Themes
 
-## Site Themes
-
 ## Ancient
 
 This place holds the secrets of a bygone age.

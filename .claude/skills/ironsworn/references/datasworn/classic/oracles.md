@@ -1,7 +1,5 @@
 # Ironsworn Rulebook — Oracles
 
-## Oracles
-
 ## Action and Theme Oracles
 
 ### Action
