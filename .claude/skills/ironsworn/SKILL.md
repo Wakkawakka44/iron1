@@ -17,13 +17,40 @@ Stück anhand von PDF-Quellenmaterial (Regelwerk, Weltbeschreibung) erweitert.
 
 ## Aktueller Stand
 
-Noch keine Referenzinhalte eingepflegt. Sobald Regel-/Weltmaterial aus PDFs
-ausgewertet wurde, werden hier Verweise auf `references/` ergänzt, z.B.:
+### Regelwerk (Datasworn)
 
-- `references/glossary.md` – Ironsworn-Spielbegriffe (Moves, Vows, Momentum,
-  Oracles, Progress Tracks, Assets, ...)
-- `references/world.md` – die vom Nutzer erschaffene Spielwelt (Orte,
-  Fraktionen, NPCs, offene Fäden)
+Das offizielle Ironsworn-Regelwerk (Classic + Delve) liegt strukturiert unter
+`references/datasworn/` — importiert aus [rsek/datasworn](https://github.com/rsek/datasworn)
+(Details/Lizenz: `references/datasworn/NOTICE.md`). Bei Regelfragen, Moves,
+Oracles, Assets, NPC-Stats etc. dort nachschlagen statt aus dem Gedächtnis zu
+raten:
+
+- `references/datasworn/classic/moves.md` – alle Moves (Adventure, Relationship,
+  Combat, Suffer, Quest, Fate) inkl. vollem Regeltext und Outcomes
+- `references/datasworn/classic/oracles.md` – alle Orakel-Tabellen (Namen,
+  Orte, Siedlungen, Wendepunkte, ...)
+- `references/datasworn/classic/assets.md` – alle Assets (Combat Talent,
+  Companion, Path, Ritual) mit Fähigkeiten
+- `references/datasworn/classic/npcs.md` – vorgefertigte NPCs/Kreaturen
+- `references/datasworn/classic/atlas.md` – die Ironlands-Regionen
+- `references/datasworn/classic/truths.md` – die "World Truths" (Setting-Grundlagen)
+- `references/datasworn/classic/rules.md` – Stats, Condition Meters (Health/
+  Spirit/Supply), Special Tracks, Impacts
+- `references/datasworn/delve/*.md` – dieselben Kategorien für die
+  *Ironsworn: Delve*-Erweiterung, plus `rarities.md`, `delve_sites.md`,
+  `site_domains.md`, `site_themes.md` für Dungeon-Delves
+
+Diese Markdown-Dateien sind aus `references/datasworn/source/{classic,delve}.json`
+generiert (Skript: `scripts/build_reference_markdown.py`). Die JSON-Dateien
+selbst sind die exakte Quelle (IDs, exakte Werte) für Fälle, in denen das
+Markdown nicht reicht — wegen ihrer Größe (600+ KB) nicht komplett einlesen,
+sondern gezielt mit `jq`/`grep` abfragen.
+
+Noch offen: Referenzen für die vom Nutzer erschaffene Spielwelt (eigene Orte,
+Fraktionen, NPCs, offene Fäden) sowie ein Format für Tagebucheinträge. Diese
+entstehen iterativ im Gespräch mit dem Nutzer, z.B. als:
+
+- `references/world.md` – die vom Nutzer erschaffene Spielwelt
 
 ## Rollen dieses Skills
 
