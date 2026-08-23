@@ -29,6 +29,23 @@ in die Angelegenheiten des Nordens. Kriege um Ressourcen brachen aus, und die
 Flüchtlinge, die nach Süden drängten, wurden dort keineswegs immer gut
 aufgenommen.
 
+**Korrektur:** Der Exodus liegt inzwischen über 400 Jahre zurück (nicht wie
+zunächst notiert 80–120 Jahre — siehe Klärungsbedarf unten bei Communities).
+Diese lange Zeitspanne hat den Ironländern die Möglichkeit gegeben, eigene
+Traditionen und eine eigene, von der alten Welt abweichende Kultur zu
+entwickeln. Dennoch orientieren sich einzelne Siedlungen unterschiedlich
+stark an einem der ehemaligen nördlichen Königreiche, je nachdem, woher ihre
+Gründer stammten — erkennbar an Festtagen, die auf die alte Welt zurückgehen
+(bewahrt sowohl in kleinen Dörfern als auch besonders in den größeren
+Küstenstädten) neben neu entstandenen Festen, sowie in Kleidung,
+Sprachgebrauch, Vorlieben und Bräuchen rund um Heirat und Bestattung. Weil
+beim chaotischen Exodus so viele auf der Reise starben und Menschen aus
+verschiedensten nördlichen Königreichen bunt zusammengewürfelt wurden, kam
+es zugleich zu einer starken Vermengung. Über die vier Jahrhunderte hat sich
+daraus eine eigenständige Ironlands-Kultur entwickelt — eher ein Echo der
+alten Königreiche als deren Fortsetzung, eine Mischung aus ihren jeweiligen
+Eigenarten.
+
 **Offene Fragen (bewusst noch nicht entschieden):**
 
 - Was genau löste den Zusammenbruch im Norden aus — Klimawandel, Missernten
@@ -93,16 +110,60 @@ größeren Siedlungen gebildet, mit vielleicht ein- bis zweitausend Menschen —
 mehr aber nicht. Im Landesinneren, in den Bergen und im Dschungel werden die
 Siedlungen dagegen zunehmend kleiner.
 
-**Mögliche Verknüpfung zu anderen Truths (Vorschlag, noch zu bestätigen):**
-
-- *Legacies*: Denkbar wäre, dass die frühesten Siedler des Landes (vor dieser
-  großen Migrationswelle) diejenigen sind, die zu den Broken wurden — die
-  jetzige Migration würde die Ironlands dann erst nach diesem früheren
-  Niedergang neu besiedeln. Das ist meine Interpretation eines mehrdeutigen
-  Satzes aus dem Gespräch — bitte bestätigen oder korrigieren.
+**Klärungsbedarf — Zeitlinien-Konflikt:** Hier stand die große
+Bevölkerungswanderung ursprünglich bei 80–120 Jahren, jetzt wurde der Exodus
+selbst auf über 400 Jahre korrigiert (siehe „The Old World"). Sind das
+zwei getrennte Ereignisse — (1) der Exodus vor 400+ Jahren, dessen frühe
+Siedler zu den Broken wurden, und (2) eine spätere, zweite große
+Wanderungswelle vor 80–120 Jahren, die die Ironlands erneut/weiter
+besiedelte — oder ist es ein einziges Ereignis und die 80–120-Jahre-Angabe
+war schlicht falsch (dann wäre die gesamte heutige Besiedlung bereits
+400+ Jahre alt)? Bitte einmal klarstellen, das ändert einiges an der
+Besiedlungsgeschichte.
 
 **Notiz:** Dschungel als Landschaftstyp im Landesinneren weicht vom
 offiziellen Ironlands-Atlas ab (dort eher kalt/rau, siehe
 `references/datasworn/classic/atlas.md`). Falls das eine bewusste
 Abweichung für diese eigene Welt ist, kein Problem — nur zur
 Kenntnisnahme, falls es keine war.
+
+## Leaders
+
+In den kleinen Siedlungen handelt es sich bei der Führung meist schlicht um
+eine oder wenige fähige Personen, die sich als kompetent erwiesen haben —
+kein festes Amt, keine Institution.
+
+In den größeren Küstenstädten und den mittelgroßen Ackerbau-Dörfern der
+Plains zeigen sich dagegen eher Kontinuitäten aus der alten Welt: Manche
+Siedlungen wurden von ganzen Clans gegründet, die es geschafft hatten,
+während des Exodus zusammenzubleiben und ihre alten Machtstrukturen
+mitzunehmen. Andernorts errichteten Gruppen von Priestern regelrechte
+Enklaven, um dort alten oder neuen Göttern zu huldigen. Wie religiös oder
+wie hierarchisch organisiert ein ursprüngliches nördliches Königreich einst
+war, kann eine Siedlung also bis heute prägen — auch wenn sich seither
+vieles verändert hat.
+
+Weil die größeren Städte über die Küste leichter miteinander in Kontakt und
+Handel stehen, haben sich bei ihnen ähnliche Macht- und Führungsstrukturen
+etabliert: Meist regiert eine Führungsriege aus drei bis fünf Personen
+gemeinsam. In manchen größeren Städten hat es aber auch eine einzelne
+Person geschafft, die Macht zu konsolidieren — sie herrscht dort allein,
+etwa als eine Art Clan-Oberhaupt, Patriarch oder Häuptling. Zwischen
+benachbarten Städten haben sich zudem Nutz- und Schutzallianzen gebildet.
+
+## Defense
+
+Bei einer Bevölkerung von ein- bis zweitausend Menschen ist offener Krieg
+zwischen Siedlungen teuer und selten — man kann ihn sich kaum leisten.
+Häufiger sind stattdessen Überfälle, Räuber und kriminelle Banden. Auch
+Nachkommen der alten Königreiche, die es mit Geld und Ressourcen über die
+gefährliche Reise geschafft haben, versuchen mitunter, eigene
+Machtstrukturen zu etablieren — vereinzelt offenbar sogar erfolgreich, in
+einer der größeren Siedlungen.
+
+Kleine Dörfer haben in der Regel keine eigenen Wächter — die Gemeinschaft
+verteidigt sich im Ernstfall selbst. Größere Städte haben zwar keine reine
+Stadtwache, aber durchaus Personen, die regelmäßig von der Führungsriege mit
+Aufgaben betraut werden: vor allem für den inneren Frieden und die Ordnung
+unter der Bevölkerung, gelegentlich auch als Begleitschutz für Handelszüge
+gegen Räuber.
