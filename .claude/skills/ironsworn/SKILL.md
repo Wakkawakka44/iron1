@@ -46,6 +46,30 @@ selbst sind die exakte Quelle (IDs, exakte Werte) für Fälle, in denen das
 Markdown nicht reicht — wegen ihrer Größe (600+ KB) nicht komplett einlesen,
 sondern gezielt mit `jq`/`grep` abfragen.
 
+### Zusätzliche Orakel (Ironsmith Expanded Oracles)
+
+Ergänzend zu den offiziellen Oracles gibt es unter `references/ironsmith/oracles/`
+168 zusätzliche Orakel-Tabellen aus dem *Ironsmith Expanded Oracles*-Supplement
+(Details/Lizenz — **CC-BY-NC-SA-4.0, inoffizielles Drittanbieter-Material**:
+`references/ironsmith/NOTICE.md`). Nützlich vor allem für Weltenbau/Ideensammlung,
+wenn die Ironsworn-Kern-Oracles nicht die passende Tabelle bieten:
+
+- `vows-and-milestones.md` – Quest-Schwierigkeit, narrative Konflikte, Wege
+  zu Meilensteinen, Mystery Vow, Grim Quest, One-Shot, Challenges to Noble Virtue
+- `monster-hunting.md` – "Design the Monster" (Fähigkeit, Form, Größe, ...),
+  Ending the Fight, Heed the Call
+- `character.md` – Hintergrund-/Charakter-Prompts
+- `name.md` – weitere Namensgeneratoren
+- `turning-point-oracles.md`, `place-oracles.md`, `settlement-oracles.md`,
+  `site-name.md`, `site-nature.md` – Ergänzungen zu Orten/Siedlungen/Delve-Sites
+- `corruption.md`, `combat-event.md`, `trap.md`, `feature.md`, `monstrosity.md`,
+  `threat.md`, `action-and-theme-oracles.md`, `move-oracles.md` – weitere
+  Detail-Oracles
+
+Bei Regelfragen zählen weiterhin die `references/datasworn/`-Dateien als
+offizielle Quelle; die Ironsmith-Oracles sind reine Inspirations-Zusatzoracles,
+kein Regelwerk.
+
 Noch offen: Referenzen für die vom Nutzer erschaffene Spielwelt (eigene Orte,
 Fraktionen, NPCs, offene Fäden) sowie ein Format für Tagebucheinträge. Diese
 entstehen iterativ im Gespräch mit dem Nutzer, z.B. als:
