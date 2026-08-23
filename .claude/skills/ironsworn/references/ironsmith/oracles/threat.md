@@ -2,7 +2,7 @@
 
 ### Undead Uprising
 
-### The Undead...
+#### The Undead...
 
 Those who keep watch from the Veiled Mountains report large hordes of undead and other horrors making their way south to the Ironlands. At first, we thought the mountains would hold them back, but again we were wrong. Their unrelenting nature has allowed them to find tunnels and passages through the mountains to continue their never-ending march south.
 
@@ -23,7 +23,7 @@ Roll | Result
 9 | Corrupt the environment
 10 | Reveal the true nature or source of power
 
-### Accompanying Signs or Portents
+#### Accompanying Signs or Portents
 
 Those who keep watch from the Veiled Mountains report large hordes of undead and other horrors making their way south to the Ironlands. At first, we thought the mountains would hold them back, but again we were wrong. Their unrelenting nature has allowed them to find tunnels and passages through the mountains to continue their never-ending march south.
 

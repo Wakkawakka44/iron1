@@ -100,7 +100,7 @@ Roll | Result
 
 ### Mystery Vow
 
-### Clue Relates To...
+#### Clue Relates To...
 
 After discovering the physical object, you can find out what type of information the physical clue gives you by rolling your action die (1d6) twice on the following tables. If needed, make an Action/Theme roll for more details.
 
@@ -112,7 +112,7 @@ Roll | Result
 3-4 | Why it was committed
 5-6 | Culprit’s past location
 
-### Item of Narrative Significance (1 - 2)
+#### Item of Narrative Significance (1 - 2)
 
 Items of narrative significance may at first glance seem like completely random objects, but because they are narratively significant in a mystery vow, they do connect to the plot in some way. I’ll talk about how they connect to the plot after the tables.
 
@@ -221,7 +221,7 @@ Roll | Result
 99 | Broken lute of superior craftsmanship
 100 | Flute carved of a sacred wood
 
-### Item of Narrative Significance (3 - 4)
+#### Item of Narrative Significance (3 - 4)
 
 Items of narrative significance may at first glance seem like completely random objects, but because they are narratively significant in a mystery vow, they do connect to the plot in some way. I’ll talk about how they connect to the plot after the tables.
 
@@ -330,7 +330,7 @@ Roll | Result
 99 | Frightening mask
 100 | Severed finger
 
-### Item of Narrative Significance (5 - 6)
+#### Item of Narrative Significance (5 - 6)
 
 Items of narrative significance may at first glance seem like completely random objects, but because they are narratively significant in a mystery vow, they do connect to the plot in some way. I’ll talk about how they connect to the plot after the tables.
 
@@ -439,7 +439,7 @@ Roll | Result
 99 | Large file or chisel
 100 | Buried Mace
 
-### Culprit's Past Location
+#### Culprit's Past Location
 
 After discovering the physical object, you can find out what type of information the physical clue gives you by rolling your action die (1d6) twice on the following tables. If needed, make an Action/Theme roll for more details.
 
@@ -454,7 +454,7 @@ Roll | Result
 5 | A site of power
 6 | Place significant to your past
 
-### Topic of Info
+#### Topic of Info
 
 If you're looking for specific emotional or information clues in a mystery, you may roll percentile dice (2d10) treating the tens digit and the ones digit as separate rolls.
 
@@ -473,7 +473,7 @@ Roll | Result
 9 | A site or relic of power
 10 | A local leader
 
-### Type of Info
+#### Type of Info
 
 If you're looking for specific emotional or information clues in a mystery, you may roll percentile dice (2d10) treating the tens digit and the ones digit as separate rolls.
 
@@ -492,7 +492,7 @@ Roll | Result
 9 | A recent change in power or authority involving
 10 | A damaging secret involving
 
-### Obstacle
+#### Obstacle
 
 While you may have brainstormed a few obstacles during the vow creation process, you may also want to find some mystery-centric obstacles during gameplay. In the broadest terms, obstacles in a mystery will be events designed to stop your character from figuring out the mystery. If you score a miss on a Gather Information or other move in pursuit of solving a mystery, you may roll percentile dice (2d10) on the following table using the given obstacles to help you frame the fiction of your miss.
 
@@ -511,7 +511,7 @@ Roll | Result
 81-90 | A conflict from your past has arisen at just the wrong time. What was that conflict, and how is it now impeding your progress?
 91-100 | You find evidence that a primary suspect is actually innocent, and now they see it as a point of honor to oppose you. Despite their innocence, what special information do they hold?
 
-### Premise
+#### Premise
 
 If you decide to use a mystery genre as you are creating your vow, you may roll your action die (1d6) on the following table to get the basic premise of the quest.
 
@@ -526,7 +526,7 @@ Roll | Result
 5 | Find out who set a curse upon the settlement and reverse it.
 6 | Find out why a settlement or building was destroyed or abandoned and make sure it won't happen again.
 
-### Who Committed the Crime
+#### Who Committed the Crime
 
 After discovering the physical object, you can find out what type of information the physical clue gives you by rolling your action die (1d6) twice on the following tables. If needed, make an Action/Theme roll for more details.
 
@@ -541,7 +541,7 @@ Roll | Result
 5 | Warrior or Hunter
 6 | Craftsman or Civilian
 
-### Why the Crime was Committed
+#### Why the Crime was Committed
 
 After discovering the physical object, you can find out what type of information the physical clue gives you by rolling your action die (1d6) twice on the following tables. If needed, make an Action/Theme roll for more details.
 
@@ -558,7 +558,7 @@ Roll | Result
 
 ### One-Shot
 
-### Added Pressure
+#### Added Pressure
 
 To choose an inciting incident, roll percentile dice (2d10) and your action die (1d6) on the table on the next page. The tens digit of the percentile dice will give you the inciting incident. Briefly discuss the questions asked to get the background set, and then decide on a difficulty level for the vow: Troublesome or Dangerous. Next, mark progress once on the progress track to represent the characters already having made it to this spot in the quest. This will also help you bring the vow to a conclusion in a single session.
 
@@ -573,7 +573,7 @@ Roll | Result
 5 | Your banner leader has fallen, plunging the clan into turmoil and in-fighting.
 6 | Arcane chanting is carried to you by the wind, and the pungent smell of hot iron fills the air.
 
-### Inciting Incident
+#### Inciting Incident
 
 To choose an inciting incident, roll percentile dice (2d10) and your action die (1d6) on the table on the next page. The tens digit of the percentile dice will give you the inciting incident. Briefly discuss the questions asked to get the background set, and then decide on a difficulty level for the vow: Troublesome or Dangerous. Next, mark progress once on the progress track to represent the characters already having made it to this spot in the quest. This will also help you bring the vow to a conclusion in a single session.
 
@@ -592,7 +592,7 @@ Roll | Result
 9 | A family heirloom was lost when a warrior fell at a great battle and must be returned to blood-kin. Why was the battle significant, and in what way did it change the landscape forever?
 10 | Raiders have decimated the population and food stores of a settlement. Where is the nearest shelter for the survivors, and how is the leader of the raiders connected to you?
 
-### Location
+#### Location
 
 To choose an inciting incident, roll percentile dice (2d10) and your action die (1d6) on the table on the next page. The tens digit of the percentile dice will give you the inciting incident. Briefly discuss the questions asked to get the background set, and then decide on a difficulty level for the vow: Troublesome or Dangerous. Next, mark progress once on the progress track to represent the characters already having made it to this spot in the quest. This will also help you bring the vow to a conclusion in a single session.
 
@@ -613,7 +613,7 @@ Roll | Result
 
 ### Grim Quest
 
-### Burden
+#### Burden
 
 To continue the theme of gritty fantasy, the standard fantasy tropes are paired with a burden the characters must bear during this quest. While "Defend those who are weak" and "Aid those who are suffering" may sound similar, hopefully the different wording points your imagination in a new direction.
 
@@ -632,7 +632,7 @@ Roll | Result
 9 | Shameful event
 10 | Heartbreaking loss
 
-### Grim Quest
+#### Grim Quest
 
 To continue the theme of gritty fantasy, the standard fantasy tropes are paired with a burden the characters must bear during this quest. While "Defend those who are weak" and "Aid those who are suffering" may sound similar, hopefully the different wording points your imagination in a new direction.
 
@@ -653,7 +653,7 @@ Roll | Result
 
 ### Challenges to Noble Virtue
 
-### Loss of...
+#### Loss of...
 
 Brainstorm what conflict or central tension this loss causes for the characters that they will need to overcome. Additionally, one of the ten noble virtues (originally nine in Viking culture) will be challenged. This may be a subplot or an expansion of the central tension as you see fit.
 
@@ -672,7 +672,7 @@ Roll | Result
 9 | Sustenance
 10 | Trust
 
-### Challenging the Virtue of...
+#### Challenging the Virtue of...
 
 Brainstorm what conflict or central tension this loss causes for the characters that they will need to overcome. Additionally, one of the ten noble virtues (originally nine in Viking culture) will be challenged. This may be a subplot or an expansion of the central tension as you see fit.
 
@@ -693,7 +693,7 @@ Roll | Result
 
 ### Fantasy Quest
 
-### Archetype
+#### Archetype
 
 These are the standard fantasy tropes boiled down to a phrase in the form of "Verb the Noun." While these are common particularly in high fantasy, this section also includes a modifying adjective to help get the creative juices flowing and ground you in the grittier world of the Ironlands. Feel free to make your own list of modifiers that fit your world better. For example, an easy way to swap out your modifiers is to put in the different types of themes for sites such as Contested, Floating, Frozen, etc. available in Ironsworn: Delve and in this supplement on pg. 227.
 
@@ -712,7 +712,7 @@ Roll | Result
 9 | Rescue the innocent
 10 | Slay the beast
 
-### Modifier
+#### Modifier
 
 These are the standard fantasy tropes boiled down to a phrase in the form of "Verb the Noun." While these are common particularly in high fantasy, this section also includes a modifying adjective to help get the creative juices flowing and ground you in the grittier world of the Ironlands. Feel free to make your own list of modifiers that fit your world better. For example, an easy way to swap out your modifiers is to put in the different types of themes for sites such as Contested, Floating, Frozen, etc. available in Ironsworn: Delve and in this supplement on pg. 227.
 
@@ -731,7 +731,7 @@ Roll | Result
 9 | Shadowy
 10 | Vindictive
 
-### Alternate Fantasy Quests
+#### Alternate Fantasy Quests
 
 These are the standard fantasy tropes boiled down to a phrase in the form of "Verb the Noun." While these are common particularly in high fantasy, this section also includes a modifying adjective to help get the creative juices flowing and ground you in the grittier world of the Ironlands. Feel free to make your own list of modifiers that fit your world better. For example, an easy way to swap out your modifiers is to put in the different types of themes for sites such as Contested, Floating, Frozen, etc. available in Ironsworn: Delve and in this supplement on pg. 227.
 

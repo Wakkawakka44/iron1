@@ -170,7 +170,7 @@ Roll | Result
 
 ### Quick Settlement Name Generator
 
-### Suffix (5 - 6)
+#### Suffix (5 - 6)
 
 *Dice: 1d100*
 
@@ -202,7 +202,7 @@ Roll | Result
 93-96 | loft
 97-100 | vik
 
-### Prefix (1 - 2)
+#### Prefix (1 - 2)
 
 *Dice: 1d100*
 
@@ -234,7 +234,7 @@ Roll | Result
 93-96 | Thorn
 97-100 | Long
 
-### Suffix (3 - 4)
+#### Suffix (3 - 4)
 
 *Dice: 1d100*
 
@@ -266,7 +266,7 @@ Roll | Result
 93-96 | beck
 97-100 | thwaite
 
-### Prefix (3 - 4)
+#### Prefix (3 - 4)
 
 *Dice: 1d100*
 
@@ -298,7 +298,7 @@ Roll | Result
 93-96 | Wyrm
 97-100 | Vintner
 
-### Prefix (5 - 6)
+#### Prefix (5 - 6)
 
 *Dice: 1d100*
 
@@ -330,7 +330,7 @@ Roll | Result
 93-96 | Wilde
 97-100 | Elder
 
-### Suffix (1 - 2)
+#### Suffix (1 - 2)
 
 *Dice: 1d100*
 

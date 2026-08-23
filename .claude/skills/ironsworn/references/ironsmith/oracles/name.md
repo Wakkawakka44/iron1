@@ -821,7 +821,7 @@ Roll | Result
 
 ### Other Names
 
-### Giants (1 - 2)
+#### Giants (1 - 2)
 
 *Dice: 1d100*
 
@@ -853,7 +853,7 @@ Roll | Result
 93-96 | Qudan
 97-100 | Denua
 
-### Giants (5 - 6)
+#### Giants (5 - 6)
 
 *Dice: 1d100*
 
@@ -885,7 +885,7 @@ Roll | Result
 93-96 | Bayo
 97-100 | Tubtu
 
-### Giants (3 - 4)
+#### Giants (3 - 4)
 
 *Dice: 1d100*
 
@@ -917,7 +917,7 @@ Roll | Result
 93-96 | Martun
 97-100 | Buando
 
-### Trolls (5 - 6)
+#### Trolls (5 - 6)
 
 *Dice: 1d100*
 
@@ -949,7 +949,7 @@ Roll | Result
 93-96 | Stutch
 97-100 | Charak
 
-### Varou (3 - 4)
+#### Varou (3 - 4)
 
 *Dice: 1d100*
 
@@ -981,7 +981,7 @@ Roll | Result
 93-96 | Mutta
 97-100 | Taeen
 
-### Trolls (1 - 2)
+#### Trolls (1 - 2)
 
 *Dice: 1d100*
 
@@ -1013,7 +1013,7 @@ Roll | Result
 93-96 | Leech
 97-100 | Herk
 
-### Varou (1 - 2)
+#### Varou (1 - 2)
 
 *Dice: 1d100*
 
@@ -1045,7 +1045,7 @@ Roll | Result
 93-96 | Aleko
 97-100 | Vojan
 
-### Trolls (3 - 4)
+#### Trolls (3 - 4)
 
 *Dice: 1d100*
 
@@ -1077,7 +1077,7 @@ Roll | Result
 93-96 | Pointy
 97-100 | Sharp
 
-### Varou (5 - 6)
+#### Varou (5 - 6)
 
 *Dice: 1d100*
 

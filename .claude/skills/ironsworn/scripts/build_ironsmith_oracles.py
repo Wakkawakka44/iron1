@@ -74,12 +74,17 @@ def render_table(table, depth):
 
 def render_folder(folder_id, folders, tables_by_folder, depth, out):
     folder = folders.get(folder_id)
+    table_depth = depth
     if folder and depth > 0:
         heading = "#" * min(depth + 2, 6)
         out.append(f"{heading} {folder['name']}\n")
+        # Tables directly inside a named folder nest one level below that
+        # folder's own heading; root-level tables (depth 0, no printed
+        # heading) stay at table_depth so they sit right under the file title.
+        table_depth = depth + 1
 
     for table in sorted(tables_by_folder.get(folder_id, []), key=lambda t: t.get("sort", 0)):
-        out.append(render_table(table, depth))
+        out.append(render_table(table, table_depth))
 
     children = [f for f in folders.values() if f.get("folder") == folder_id]
     children.sort(key=lambda f: f.get("sort", 0))

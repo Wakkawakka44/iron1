@@ -2,7 +2,7 @@
 
 ### Design the Monster
 
-### Primary Ability
+#### Primary Ability
 
 Once you know what the monster has done, the next logical piece of information is getting a vague idea of what type of monster you're dealing with. The easiest way to generate a physical description of the monster is to follow the rules presented in Ironsworn: Delve to create a monstrosity. If you don't own those rules, you should! Go support Shawn and Ironsworn by purchasing his excellent supplement! However, if you're playing a different RPG, here is an alternative table (nowhere near as expansive or good as Shawn's) that you can roll percentile dice (2d10) for each category to build a monster.
 
@@ -15,7 +15,7 @@ Roll | Result
 81-95 | Entangles, Constricts, Paralyzes, or Parasitic
 96-100 | Utilizes Magic
 
-### Primary Form
+#### Primary Form
 
 Once you know what the monster has done, the next logical piece of information is getting a vague idea of what type of monster you're dealing with. The easiest way to generate a physical description of the monster is to follow the rules presented in Ironsworn: Delve to create a monstrosity. If you don't own those rules, you should! Go support Shawn and Ironsworn by purchasing his excellent supplement! However, if you're playing a different RPG, here is an alternative table (nowhere near as expansive or good as Shawn's) that you can roll percentile dice (2d10) for each category to build a monster.
 
@@ -28,7 +28,7 @@ Roll | Result
 81-95 | Bird
 96-100 | Arachnid, Insect, or Myriapod
 
-### Primary Characteristic
+#### Primary Characteristic
 
 Once you know what the monster has done, the next logical piece of information is getting a vague idea of what type of monster you're dealing with. The easiest way to generate a physical description of the monster is to follow the rules presented in Ironsworn: Delve to create a monstrosity. If you don't own those rules, you should! Go support Shawn and Ironsworn by purchasing his excellent supplement! However, if you're playing a different RPG, here is an alternative table (nowhere near as expansive or good as Shawn's) that you can roll percentile dice (2d10) for each category to build a monster.
 
@@ -41,7 +41,7 @@ Roll | Result
 81-95 | Odd Sensory Organs or Excretion Glands/Sacs
 96-100 | Wings or Burrowing Snout
 
-### Size
+#### Size
 
 Once you know what the monster has done, the next logical piece of information is getting a vague idea of what type of monster you're dealing with. The easiest way to generate a physical description of the monster is to follow the rules presented in Ironsworn: Delve to create a monstrosity. If you don't own those rules, you should! Go support Shawn and Ironsworn by purchasing his excellent supplement! However, if you're playing a different RPG, here is an alternative table (nowhere near as expansive or good as Shawn's) that you can roll percentile dice (2d10) for each category to build a monster.
 
@@ -54,7 +54,7 @@ Roll | Result
 81-95 | Huge
 96-100 | Gigantic
 
-### Likelihood of Correct Ability
+#### Likelihood of Correct Ability
 
 After designing your monster, you may want an added twist. What if the people describing the monster don't get the details right? We know that eyewitnesses are notorious for getting things wrong, and in the chaos of a monster attack, it's reasonable to assume that some of the details got jumbled. Or worse yet, what if the person your character is talking to is intentionally lying about the monster? Why would they lie? What do they gain from this? These types of twists can lead to cool game play moments as your character has made preparations to combat one particular monster attribute (such as breathing fire), but it's actually got a completely different attribute (sonic vibrations that move so quickly they set a wood pile on fire) leaving you to scramble for a new plan on the fly.
 
@@ -69,7 +69,7 @@ Roll | Result
 5 | Almost certain
 6 | Almost certain
 
-### Likelihood of Correct Characteristic
+#### Likelihood of Correct Characteristic
 
 After designing your monster, you may want an added twist. What if the people describing the monster don't get the details right? We know that eyewitnesses are notorious for getting things wrong, and in the chaos of a monster attack, it's reasonable to assume that some of the details got jumbled. Or worse yet, what if the person your character is talking to is intentionally lying about the monster? Why would they lie? What do they gain from this? These types of twists can lead to cool game play moments as your character has made preparations to combat one particular monster attribute (such as breathing fire), but it's actually got a completely different attribute (sonic vibrations that move so quickly they set a wood pile on fire) leaving you to scramble for a new plan on the fly.
 
@@ -84,7 +84,7 @@ Roll | Result
 5 | Almost certain
 6 | Almost certain
 
-### Likelihood of Correct Primary Form
+#### Likelihood of Correct Primary Form
 
 After designing your monster, you may want an added twist. What if the people describing the monster don't get the details right? We know that eyewitnesses are notorious for getting things wrong, and in the chaos of a monster attack, it's reasonable to assume that some of the details got jumbled. Or worse yet, what if the person your character is talking to is intentionally lying about the monster? Why would they lie? What do they gain from this? These types of twists can lead to cool game play moments as your character has made preparations to combat one particular monster attribute (such as breathing fire), but it's actually got a completely different attribute (sonic vibrations that move so quickly they set a wood pile on fire) leaving you to scramble for a new plan on the fly.
 
@@ -99,7 +99,7 @@ Roll | Result
 5 | Almost certain
 6 | Almost certain
 
-### Likelihood of Correct Size
+#### Likelihood of Correct Size
 
 After designing your monster, you may want an added twist. What if the people describing the monster don't get the details right? We know that eyewitnesses are notorious for getting things wrong, and in the chaos of a monster attack, it's reasonable to assume that some of the details got jumbled. Or worse yet, what if the person your character is talking to is intentionally lying about the monster? Why would they lie? What do they gain from this? These types of twists can lead to cool game play moments as your character has made preparations to combat one particular monster attribute (such as breathing fire), but it's actually got a completely different attribute (sonic vibrations that move so quickly they set a wood pile on fire) leaving you to scramble for a new plan on the fly.
 
@@ -114,7 +114,7 @@ Roll | Result
 5 | Almost certain
 6 | Almost certain
 
-### Exploitable Weakness
+#### Exploitable Weakness
 
 The following table gives you some random weaknesses to assign to your monsters if you have trouble of thinking of some that fit your specific monster.
 
@@ -147,7 +147,7 @@ Roll | Result
 
 #### Find an Opposing Viewpoint
 
-#### Actor
+##### Actor
 
 What if someone openly opposes killing off the monster? They support keeping the monster around or at least have another suggestion other than death for the monster.
 
@@ -166,7 +166,7 @@ Roll | Result
 9 | A sea captain with a weathered map
 10 | Another ironsworn
 
-#### Wants to...
+##### Wants to...
 
 What if someone openly opposes killing off the monster? They support keeping the monster around or at least have another suggestion other than death for the monster.
 
@@ -185,7 +185,7 @@ Roll | Result
 9 | Breed the monster
 10 | Tame the monster
 
-#### Why?
+##### Why?
 
 What if someone openly opposes killing off the monster? They support keeping the monster around or at least have another suggestion other than death for the monster.
 
@@ -202,7 +202,7 @@ Roll | Result
 
 #### Uncover a Secret
 
-#### Secretly Does...
+##### Secretly Does...
 
 Sometimes there's a darker secret that you must root out that either the people left out in their story about the monster or that they are unaware of. Perhaps rather than the monster, people were really the aggressive party and overreacted to the monster which in turn caused it to defend itself. Perhaps they are harboring a known criminal and using the monster as a smokescreen to allow nefarious activity.
 
@@ -221,7 +221,7 @@ Roll | Result
 9 | Disrupts attempts to hunt the monster
 10 | Enhances the monster with mystical power
 
-#### Actor
+##### Actor
 
 Sometimes there's a darker secret that you must root out that either the people left out in their story about the monster or that they are unaware of. Perhaps rather than the monster, people were really the aggressive party and overreacted to the monster which in turn caused it to defend itself. Perhaps they are harboring a known criminal and using the monster as a smokescreen to allow nefarious activity.
 
@@ -240,7 +240,7 @@ Roll | Result
 9 | A tradesman
 10 | Another ironsworn
 
-#### Why?
+##### Why?
 
 Sometimes there's a darker secret that you must root out that either the people left out in their story about the monster or that they are unaware of. Perhaps rather than the monster, people were really the aggressive party and overreacted to the monster which in turn caused it to defend itself. Perhaps they are harboring a known criminal and using the monster as a smokescreen to allow nefarious activity.
 
@@ -257,7 +257,7 @@ Roll | Result
 
 #### Tracks
 
-#### Sign
+##### Sign
 
 You may specifically search for and discover tell-tale signs of the monster's passage that give you more information about the monster itself. When you score a hit while searching for tracks, you may roll percentile dice (2d10) and your action die (1d6) using the following table to tell you what type of tracks you find.
 
@@ -276,7 +276,7 @@ Roll | Result
 81-90 | Feathers, scales, or fur
 91-100 | Destroyed nest
 
-#### Age
+##### Age
 
 You may specifically search for and discover tell-tale signs of the monster's passage that give you more information about the monster itself. When you score a hit while searching for tracks, you may roll percentile dice (2d10) and your action die (1d6) using the following table to tell you what type of tracks you find.
 
@@ -293,7 +293,7 @@ Roll | Result
 
 #### Find the Mounting Pressure
 
-#### The Monster Wants to...
+##### The Monster Wants to...
 
 Usually there's something in the fiction that gives you a sense of urgency. What is the source of this increasing pressure that makes it important for you to complete your vow quickly?
 
@@ -312,7 +312,7 @@ Roll | Result
 9 | Connect with others of its kind
 10 | Fight off rivals
 
-#### But...
+##### But...
 
 Usually there's something in the fiction that gives you a sense of urgency. What is the source of this increasing pressure that makes it important for you to complete your vow quickly?
 
@@ -331,7 +331,7 @@ Roll | Result
 9 | A small group gathered its last food
 10 | A small group disturbed its lair or nest
 
-#### And It's Getting Worse Because...
+##### And It's Getting Worse Because...
 
 Usually there's something in the fiction that gives you a sense of urgency. What is the source of this increasing pressure that makes it important for you to complete your vow quickly?
 
@@ -348,7 +348,7 @@ Roll | Result
 
 ### Ending the Fight
 
-### On a Strong Hit The Monster...
+#### On a Strong Hit The Monster...
 
 There may be ways other than a fight to the death to fulfill your monster hunting vow. If you get a hit on the End the Fight move and are unsure as to the outcome, you may roll percentile dice (2d10) on the following table. Note that for a strong hit on your End the Fight, you only use the tens digit of the percentile dice. On a weak hit, you use both the tens and the ones digit separately.
 
@@ -367,7 +367,7 @@ Roll | Result
 9 | Realizes it has lost this battle and flees in a rage to regroup.
 10 | Changes its stance from aggressive to grudging respect and ceases its attack.
 
-### On a Weak Hit But...
+#### On a Weak Hit But...
 
 There may be ways other than a fight to the death to fulfill your monster hunting vow. If you get a hit on the End the Fight move and are unsure as to the outcome, you may roll percentile dice (2d10) on the following table. Note that for a strong hit on your End the Fight, you only use the tens digit of the percentile dice. On a weak hit, you use both the tens and the ones digit separately.
 
@@ -388,7 +388,7 @@ Roll | Result
 
 ### Heed the Call
 
-### What Has the Monster Done?
+#### What Has the Monster Done?
 
 The first thing that generally happens in game is that the player characters get a plea for help from a settlement or group of people. To find out what these people tell you about the monster problem, roll percentile dice (2d10 treating the tens digit and ones digit separately) and action die (1d6) using the following tables.
 
@@ -407,7 +407,7 @@ Roll | Result
 9 | Destroyed needed supplies
 10 | Brought a mystical malady or curse upon the community
 
-### What is the Dominant Attitude of the People?
+#### What is the Dominant Attitude of the People?
 
 The first thing that generally happens in game is that the player characters get a plea for help from a settlement or group of people. To find out what these people tell you about the monster problem, roll percentile dice (2d10 treating the tens digit and ones digit separately) and action die (1d6) using the following tables.
 
@@ -422,7 +422,7 @@ Roll | Result
 5 | Disgusted by the monster or ignoring it
 6 | Enraged or aggressive
 
-### How Have People Tried to Stop the Monster?
+#### How Have People Tried to Stop the Monster?
 
 The first thing that generally happens in game is that the player characters get a plea for help from a settlement or group of people. To find out what these people tell you about the monster problem, roll percentile dice (2d10 treating the tens digit and ones digit separately) and action die (1d6) using the following tables.
 

@@ -66,6 +66,12 @@ wenn die Ironsworn-Kern-Oracles nicht die passende Tabelle bieten:
   `threat.md`, `action-and-theme-oracles.md`, `move-oracles.md` – weitere
   Detail-Oracles
 
+Achtung Überschneidung: `monster-hunting.md` enthält unter "Design the
+Monster" eine eigene "Size"-Tabelle. Für Monster-Design zählt bevorzugt die
+offizielle `references/datasworn/delve/oracles.md`-Tabelle (Monstrosity:
+Size/Primary Form/Characteristics/Abilities) — die Ironsmith-Variante ist
+laut Quelltext ausdrücklich nur ein Ersatz für Runden ohne Ironsworn: Delve.
+
 Bei Regelfragen zählen weiterhin die `references/datasworn/`-Dateien als
 offizielle Quelle; die Ironsmith-Oracles sind reine Inspirations-Zusatzoracles,
 kein Regelwerk.
