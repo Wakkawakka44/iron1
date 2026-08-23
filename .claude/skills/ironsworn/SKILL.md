@@ -87,10 +87,20 @@ iterativ erweitert:
 - Wenn der Nutzer eine Truth beschreibt, den Kern seiner Aussage (nicht das
   Transkript wörtlich) in einen zusammenhängenden Absatz unter der
   passenden Truth-Überschrift fassen.
-- Noch unentschiedene Details unter "Offene Fragen" innerhalb der jeweiligen
-  Truth-Sektion festhalten, statt sie zu erfinden.
-- Naheliegende Bezüge zu anderen, noch nicht besprochenen Truths kurz unter
-  "Mögliche Verknüpfungen" notieren, ohne diese Truths damit vorwegzunehmen.
+- `meine-welt.md` bewusst sauber/publizierbar halten: reiner Weltbeschreibungs-
+  Fließtext, keine Meta-Kommentare wie "Offene Frage", "Klärungsbedarf",
+  "Korrektur" oder "vorläufig" im Dokument selbst — der Nutzer will diesen
+  Text ggf. direkt weitergeben können. Unentschiedene Details stattdessen
+  im Chat ansprechen/nachfragen, statt sie zu erfinden oder als Platzhalter
+  ins Dokument zu schreiben; erst nach Klärung als fertigen Text einpflegen.
+  In-Welt-Mysterien (Dinge, die die Charaktere selbst nicht wissen, aber
+  eigentlich schon feststehen) sind davon ausgenommen — die gehören als
+  normale Erzählung ins Dokument (z.B. "ihr wahrer Zweck ist unbekannt"),
+  nur eben ohne Autor:innen-Meta-Kommentar drumherum.
+- Wenn eine spätere Aussage des Nutzers einer bereits eingetragenen Stelle
+  widerspricht, den betroffenen Text direkt korrigieren (nicht als
+  "Korrektur:"-Vermerk daneben schreiben) und im Chat kurz zusammenfassen,
+  was geändert wurde.
 - Für Inhalte, die zu keiner Truth gehören (NPCs, Orte, Fraktionen, offene
   Fäden), passende neue Abschnitte/Dateien unter `references/world/` anlegen,
   sobald der Nutzer solche Inhalte liefert.
