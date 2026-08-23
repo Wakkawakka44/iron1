@@ -94,6 +94,75 @@ entstehen iterativ im Gespräch mit dem Nutzer, z.B. als:
 3. **Regelverständnis**: Der Skill verwendet Ironsworn-Begriffe korrekt und
    hilft bei Regelfragen, basierend auf den eingepflegten Referenzen.
 
+## Befehle im Chat
+
+Kein festes Kommandosystem wie bei einer CLI — dieser Skill reagiert auf
+natürliche Sprache. Die folgenden Formulierungen sind aber das feste Muster,
+das immer gleich behandelt wird, damit der Nutzer sich darauf verlassen kann.
+Bei jedem Move-Wurf oder Oracle-Wurf wird **live mit echtem Zufall gewürfelt**
+(z.B. per Skript), nie ein Ergebnis ausgedacht — der Wurf wird immer
+transparent gezeigt (Action Die, beide Challenge Dice, Ergebnis).
+
+### Move ausführen (inkl. Kampf)
+
+- „Ich mache **[Move-Name]** mit **[Stat]**" — z.B. „Ich mache Face Danger mit Edge"
+- „Ich greife [Ziel] an" / „Ich mache Strike gegen [Ziel]" (Kampf-Move)
+- „Ich betrete den Kampf gegen [Ziel]" (Enter the Fray)
+- „Ich versuche [Aktion]" — der passende Move wird aus
+  `references/datasworn/classic/moves.md` (bzw. `delve/moves.md`) ermittelt
+
+Ablauf: passenden Move nachschlagen → Action Die (1d6) + Stat gegen zwei
+Challenge Dice (1d10 je) würfeln → starker Treffer / schwacher Treffer /
+Fehlschlag (plus Match, wenn beide Challenge Dice gleich sind) bestimmen →
+passenden Outcome-Text aus der Referenz vorlesen und in die Fiktion
+übersetzen.
+
+Alle Move-Namen (Adventure, Relationship, Combat, Suffer, Quest, Fate) stehen
+in `references/datasworn/classic/moves.md` bzw. `delve/moves.md`.
+
+### Move suchen / Regel nachschlagen
+
+- „Welcher Move passt zu [Situation]?"
+- „Was macht [Move-Name]?"
+- „Was ist [Begriff]?" — z.B. Momentum, Vow, Progress Track, Debility
+
+### Orakel befragen
+
+- „Frage das Orakel: [Ja/Nein-Frage]" → **Ask the Oracle** (1d100 gegen Odds:
+  Almost Certain/Likely/50-50/Unlikely/Small Chance), Match = Twist
+- „Würfle [Oracle-Name]" — z.B. „Würfle Elf-Namen", „Würfle Wendepunkt"
+- „Ich brauche [X]" — z.B. „einen NPC", „einen Ort", „einen Namen", „ein
+  Settlement-Problem" → passendes Oracle wird gesucht (zuerst
+  `references/datasworn/`, dann ergänzend `references/ironsmith/oracles/`)
+  und gewürfelt
+- „Erschaffe ein Monster" → Monstrosity-Kette aus `delve/oracles.md` (Size →
+  Primary Form → bis zu 3 Characteristics → bis zu 3 Abilities)
+
+### Vows (Schwüre)
+
+- „Ich schwöre: [Text], Rang [Troublesome/Dangerous/Formidable/Extreme/Epic]"
+  (Swear an Iron Vow)
+- „Ich mache Fortschritt bei [Vow]" (Reach a Milestone / Progress markieren)
+- „Ich erfülle [Vow]" (Fulfill Your Vow)
+- „Ich gebe [Vow] auf" (Forsake Your Vow)
+
+### Assets
+
+- „Zeig mir Asset [Name]" — Details aus `references/datasworn/classic/assets.md`
+- „Ich nutze [Fähigkeit] von [Asset]"
+
+### Tagebuch
+
+- „Tagebucheintrag: [was passiert ist]" — wird als In-Character-Eintrag
+  formuliert
+- „Fasse die Session als Tagebuch zusammen"
+
+### Weltenbau / Ideensammlung
+
+- „Notiere: [Idee]"
+- „Neuer NPC: [Beschreibung]"
+- „Neuer Ort: [Beschreibung]"
+
 ## Nächste Schritte beim Aufbau
 
 Wenn der Nutzer ein PDF (Regelwerk-Auszug, Weltbeschreibung o.Ä.) teilt:
