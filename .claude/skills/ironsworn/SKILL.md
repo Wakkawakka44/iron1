@@ -76,11 +76,27 @@ Bei Regelfragen zählen weiterhin die `references/datasworn/`-Dateien als
 offizielle Quelle; die Ironsmith-Oracles sind reine Inspirations-Zusatzoracles,
 kein Regelwerk.
 
-Noch offen: Referenzen für die vom Nutzer erschaffene Spielwelt (eigene Orte,
-Fraktionen, NPCs, offene Fäden) sowie ein Format für Tagebucheinträge. Diese
-entstehen iterativ im Gespräch mit dem Nutzer, z.B. als:
+### Die eigene Welt des Nutzers
 
-- `references/world.md` – die vom Nutzer erschaffene Spielwelt
+`references/world/meine-welt.md` enthält die vom Nutzer erschaffene
+Spielwelt — entlang der offiziellen Truths aufgebaut (Überschriften wie
+"## The Old World" entsprechen den Truth-Kategorien aus
+`references/datasworn/classic/truths.md`). Wird im Gespräch mit dem Nutzer
+iterativ erweitert:
+
+- Wenn der Nutzer eine Truth beschreibt, den Kern seiner Aussage (nicht das
+  Transkript wörtlich) in einen zusammenhängenden Absatz unter der
+  passenden Truth-Überschrift fassen.
+- Noch unentschiedene Details unter "Offene Fragen" innerhalb der jeweiligen
+  Truth-Sektion festhalten, statt sie zu erfinden.
+- Naheliegende Bezüge zu anderen, noch nicht besprochenen Truths kurz unter
+  "Mögliche Verknüpfungen" notieren, ohne diese Truths damit vorwegzunehmen.
+- Für Inhalte, die zu keiner Truth gehören (NPCs, Orte, Fraktionen, offene
+  Fäden), passende neue Abschnitte/Dateien unter `references/world/` anlegen,
+  sobald der Nutzer solche Inhalte liefert.
+
+Noch offen: ein Format für Tagebucheinträge. Entsteht ebenfalls iterativ,
+sobald der Nutzer die erste Session erzählt.
 
 ## Rollen dieses Skills
 
