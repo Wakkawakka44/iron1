@@ -124,7 +124,7 @@ in `references/datasworn/classic/moves.md` bzw. `delve/moves.md`.
 
 - „Welcher Move passt zu [Situation]?"
 - „Was macht [Move-Name]?"
-- „Was ist [Begriff]?" — z.B. Momentum, Vow, Progress Track, Debility
+- „Was ist [Begriff]?" — z.B. Momentum, Schwur (Vow), Progress Track, Debility
 
 ### Orakel befragen
 
@@ -138,13 +138,13 @@ in `references/datasworn/classic/moves.md` bzw. `delve/moves.md`.
 - „Erschaffe ein Monster" → Monstrosity-Kette aus `delve/oracles.md` (Size →
   Primary Form → bis zu 3 Characteristics → bis zu 3 Abilities)
 
-### Vows (Schwüre)
+### Schwüre (Vows)
 
 - „Ich schwöre: [Text], Rang [Troublesome/Dangerous/Formidable/Extreme/Epic]"
   (Swear an Iron Vow)
-- „Ich mache Fortschritt bei [Vow]" (Reach a Milestone / Progress markieren)
-- „Ich erfülle [Vow]" (Fulfill Your Vow)
-- „Ich gebe [Vow] auf" (Forsake Your Vow)
+- „Ich mache Fortschritt bei [Schwur]" (Reach a Milestone / Progress markieren)
+- „Ich erfülle [Schwur]" (Fulfill Your Vow)
+- „Ich gebe [Schwur] auf" (Forsake Your Vow)
 
 ### Assets
 
