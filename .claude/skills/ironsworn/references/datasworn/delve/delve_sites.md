@@ -1,0 +1,579 @@
+# Ironsworn: Delve — Delve Sites
+
+## Alva's Rest
+
+In life, Alva the Reaver was a leader of raiders and a merciless fighter, revered and respected by her followers. In death, she has become much more. Alva was laid to rest months ago after falling to the blade of a village defender. Driven to lead and protect her war-kin even beyond death, she returned as a wight, and resumed command of the raiding band. They established an outpost in this barrow which once served as her tomb.
+
+The barrow brims with traps and hazards. Raiders wielding shield and spear lurk around every corner. Alva is also protected by a band of zealots, adorned in white cloaks and bone masks, who believe she is destined to fulfill some dark destiny.
+
+The raiders strike out at villages, returning to the barrow with their spoils to appease their undead leader. The raids grow more frequent, and the nearby settlements grow desperate. What can be done to stop Alva’s reign of terror?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Ironlanders / Raider | very common
+28-41 | Ironlanders / Zealot | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Ironlanders / Mystic | uncommon
+76-81 | Horrors / Bonewalker | uncommon
+82-87 | Horrors / Blighthound | uncommon
+88-93 | — | uncommon
+94-95 | Alva | rare
+96-97 | Horrors / Bonehorde | rare
+98-99 | — | rare
+100 | — | unforeseen
+
+- **Region:** classic/atlas/ironlands/havens
+- **Theme:** delve/site_themes/fortified
+- **Domain:** delve/site_domains/barrow
+- **Rank:** 2
+
+## Bleakroot Depths
+
+The roots of the trees run deep into the veins of the earth, tangling amid the frozen tunnels of Bleakroot Depths. The site is perilous, but provides the only passage between the remote villages of Idleburrow and Lora’s Rise. Those settlements depend on each other for trade and protection amid the perilous heights of the [Tempest Hills](id:classic/atlas/ironlands/tempest_hills).
+
+Recently, the beasts of the hills have taken to the tunnels, drawn there inexplicably. Within, they become frenzied and wild. They ambush all who dare enter Bleakroot Depths, cutting off this critical route. What primal force is at work here?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Animals / Wolf | very common
+28-41 | Animals / Bladewing | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Animals / Cave Lion | uncommon
+76-81 | Animals / Bear | uncommon
+82-87 | Ironlanders / Common Folk | uncommon
+88-93 | — | uncommon
+94-95 | Ironlanders / Hunter | rare
+96-97 | Beasts / Elder Beast | rare
+98-99 | — | rare
+100 | Firstborn / Primordial | unforeseen
+
+- **Region:** classic/atlas/ironlands/tempest_hills
+- **Theme:** delve/site_themes/wild
+- **Domain:** delve/site_domains/frozen_cavern
+- **Rank:** 3
+
+## Bonewilds
+
+This dense forest flourishes atop the remains of an ancient battlefield. Two armies clashed here long ago, fighting and killing over some forgotten dispute. Now, it is strewn with the artifacts and bones of the fallen. Rusted swords, broken spears, and dented helms protrude from the mossy ground, and skulls peer out from the knotted bark of trees. The intense corruption of bloodshed seeps into the roots of this place, and the tormented spirits rise to inhabit its vines and branches.
+
+Skeletal remains seem to reach from their resting places among gnarled roots, and the wind through the branches is a mournful call. The sap of these trees weeps red and thick as blood. What evil sustains the specter of death here?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Horrors / Bonewalker | very common
+28-41 | Horrors / Haunt | common
+42-55 | Animals / Wolf | common
+56-69 | — | common
+70-75 | Horrors / Blighthound | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Bonehorde | rare
+96-97 | Anomalies / Blood Thorn | rare
+98-99 | — | rare
+100 | Ironlanders / Husk | unforeseen
+
+- **Region:** classic/atlas/ironlands/deep_wilds
+- **Theme:** delve/site_themes/haunted
+- **Domain:** delve/site_domains/tanglewood
+- **Rank:** 3
+
+## Darkfall Caves
+
+Local legend tells of a vast, sprawling cavern with heights as great as a mountain, and depths as fathomless as the ocean. It is a place, some say, carved by the hands of old gods.
+
+This subterranean expanse can be reached from the surface, but only by traversing a labyrinth of plunging tunnels and tight crawlspaces known as Darkfall Caves. There are vestiges of a long-lost people in the passages, echoes of a time when others walked these paths, but today only skittering and skulking things dwell here. Nightmare spiders are a particularly common danger. They subsist on bats, rats, and insects—but are all too likely to attack a careless explorer. They ambush from above, their venom delivering horrific dreams to any who manage to escape.
+
+The darkness within is absolute. The descent unending. What secrets lie in the unexplored heart of this place?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Animals / Nightmare Spider | very common
+28-41 | Animals / Bladewing | common
+42-55 | Animals / Deep Rat | common
+56-69 | — | common
+70-75 | Ironlanders / Broken | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Chitter | rare
+96-97 | Animals / Trog | rare
+98-99 | — | rare
+100 | Beasts / Wyrm | unforeseen
+
+- **Region:** classic/atlas/ironlands/hinterlands
+- **Theme:** delve/site_themes/ancient
+- **Domain:** delve/site_domains/cavern
+- **Rank:** 5
+
+## Deeproot Bog
+
+The marshes of Deeprot Bog sit within a low valley, surrounded by impassible cliffs. The only accessible approach to this place is through a [Ravaged](id:delve/site_themes/ravaged) [Cavern](id:delve/site_domains/cavern), carved into the heart of the enclosing hills. It is a dangerous path, prone to floods and collapse.
+
+Within the bog itself, amid the black waters and tangled wilds of the fen, the cult of the One Beneath Us practices their rituals. Utterly devoted to the strange deity of decay, the cultists formerly kept to themselves. But recently, they’ve struck out, traveling by boat through the cavern passage. They gather supplies and new adherents from local settlements—through force if necessary.
+
+A perpetual storm seems to hang over the marsh, its dark clouds roiling. Could the cultists serving the One Beneath Us be reaching a zenith in their work?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Ironlanders / Zealot | very common
+28-41 | Animals / Marsh Rat | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Beasts / Harrow Spider | uncommon
+76-81 | Horror / Bog Rot | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Basilisk | rare
+96-97 | Horrors / Sodden | rare
+98-99 | — | rare
+100 | Horrors / Chimera | unforeseen
+
+- **Region:** classic/atlas/ironlands/flooded_lands
+- **Theme:** delve/site_themes/hallowed
+- **Domain:** delve/site_domains/shadowfen
+- **Rank:** 2
+
+## Egan’s Folly
+
+The pathfinder known as Egan prided himself on guiding Ironlanders through treacherous lands. Five years ago, he agreed to lead a group of folk headed for a mining settlement through an icebound pass. He departed too late in the season, and winter fell upon the mountains with brutal force. The expedition never emerged.
+
+What horrors befell the group can only be guessed. All that remained of their makeshift camps were long-cold fire pits, crystalline patches of frozen blood, and gnawed bones. It’s said the spirits of those travelers still haunt the pass now known as Egan’s Folly. Travelers report strange and unsettling sounds echoing through the crags. Dark forms and hungry eyes appear half-glimpsed within blinding snowstorms. What happened here? Is there some way to put the tormented souls to rest?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Horrors / Frostbound | very common
+28-41 | Horrors / Haunt | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Beasts / Mammoth | uncommon
+76-81 | Firstborn / Giant | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Animals / Wolf | rare
+96-97 | Animals / Cave Lion | rare
+98-99 | — | rare
+100 | Anomalies / Tempest | unforeseen
+
+- **Region:** classic/atlas/ironlands/tempest_mountains
+- **Theme:** delve/site_themes/haunted
+- **Domain:** delve/site_domains/pass
+- **Rank:** 4
+
+## Foulwater Plunge
+
+On the [Ragged Coast](id:classic/atlas/ironlands/ragged_coast), countless caves riddle the fjords, carved over eons by the relentless tides. One such cave hosts a misshapen beast of unknown origin: a nightspawn, birthed from hellish depths to prey on the fishers and sailors of the coast. The monster’s presence taints the waters of the cave, blackening them, tinging them with an acrid odor. Moreover, nearby aquatic life takes on qualities of the nightspawn, reshaped into aberrant forms by its creeping vileness. These monstrosities drift farther and farther from the cave, spreading the corruption to ships and settlements.
+
+Recently, folk have undertaken pilgrimages to this sea cave. They say the nightspawn calls to them, like a mother to its children. What has become of them in that vile place?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Ironlanders / Zealot | very common
+28-41 | Beasts / Nightspawn | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Firstborn / Merrow | uncommon
+76-81 | Animals / Shroud Crab | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Mother nightspawn | rare
+96-97 | Ironlanders / Husk | rare
+98-99 | — | rare
+100 | Anomalies / Maelstrom | unforeseen
+
+- **Region:** classic/atlas/ironlands/ragged_coast
+- **Theme:** delve/site_themes/corrupted
+- **Domain:** delve/site_domains/sea_cave
+- **Rank:** 3
+
+## Frostmark
+
+A clan of raiders established a settlement on this icereach. Their village, Thilda’s Hold, sits high atop a high frozen crag. Elsewhere, they’ve built several work camps and outposts. In the spring, when the surrounding waters thaw, they board their longboats to raid along the coast.
+
+Reaching the clan’s remote village requires difficult overland travel. In warmer seasons, a skilled seafarer can navigate the ice-strewn waterways that cut through Frostmark like ragged scars.
+
+A large tribe of broken also live here, sheltered in an [Ancient](id:delve/site_themes/ancient) [Frozen Cavern](id:delve/site_themes/frozen_cavern). In a recent nighttime attack on Thilda’s Hold, they killed many of the raiders, including the clan leader’s son. What will the raider’s do in retaliation?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Ironlanders / Raiders | very common
+28-41 | Animals / Wolf | common
+42-55 | Ironlanders / Broken | common
+56-69 | — | common
+70-75 | Animals / Bear | uncommon
+76-81 | Horrors / Frostbound | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Anomalies / Tempest | rare
+96-97 | Beasts / Rhaskar | rare
+98-99 | — | rare
+100 | Firstborn / Primordial | unforeseen
+
+- **Region:** classic/atlas/ironlands/shattered_wastes
+- **Theme:** delve/site_themes/fortified
+- **Domain:** delve/site_domains/icereach
+- **Rank:** 3
+
+## Greathammer Deep
+
+In ancient days, a lineage of giants lived beyond the [Veiled Mountains](id:classic/atlas/ironlands/veiled_mountains) in the great expanse we now call the [Shattered Wastes](id:classic/atlas/ironlands/shattered_wastes). The cavernous entrance to this abandoned mine sits at the summit of an icy mount. In the frozen depths, the giants once mined for ore and fashioned great weapons. Today, their abandoned tools and preserved corpses are all that remain of their legacy.
+
+Exploration of this place is treacherous. The mine is shaken by frequent earthquakes, causing cave-ins and pitfalls. The cold is as piercing and deadly as the sharpest blade. Horrid things lurk amid the echoing shadows.
+
+Some say the giants unleashed a long-buried power. Did this cause the cataclysm which sealed these northern lands in perpetual ice?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | — | very common
+28-41 | Frostbound giant | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Firstborn / Primordial | uncommon
+76-81 | Beasts / Iron Wracked Beast | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Haunt | rare
+96-97 | Beasts / Nightspawn | rare
+98-99 | — | rare
+100 | Beasts / Wyrm | unforeseen
+
+- **Region:** classic/atlas/ironlands/shattered_wastes
+- **Theme:** delve/site_themes/ravaged
+- **Domain:** delve/site_domains/mine
+- **Rank:** 4
+
+## Holdfast Barrow
+
+A power-hungry warrior known as Zhan the Bloodied arrived on the shores of the Ironlands with the first refugees. Seeing an opportunity to take control of the struggling settlements and weary people, he assembled a warband and waged a cruel campaign to establish himself as the ruler of this new land. Many hundreds died under his sword or by his command. Finally, in a battle against some brave folk defending their steading, he was defeated. With his dying breath, he swore he would return to force the people of the Ironlands to serve under his banner.
+
+Zhan’s body was entombed in a deep barrow. The members of his warband, even those who still lived, were sealed in that place along with him. A heavy stone and warding rites blocked the entrance.
+
+Time passed. Memories of Zhan’s reign of terror faded into legend. But some say he still lurks in the depths of the barrow, biding his time. If the seal is broken, will Zhan find a way to fulfill his undying vow?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Horrors / Bonewalker | very common
+28-41 | Horrors / Haunt | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Horrors / Bonehorde | uncommon
+76-81 | Horrors / Blighthound | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Iron Revenant | rare
+96-97 | Zhan the Bloodied | rare
+98-99 | — | rare
+100 | — | unforeseen
+
+- **Region:** classic/atlas/ironlands/havens
+- **Theme:** delve/site_themes/haunted
+- **Domain:** delve/site_domains/barrow
+- **Rank:** 3
+
+## Hollowmount Island
+
+The only access to landfall on this imposing, storm-swept island is through a narrow bay called the Demon’s Throat. Sailing this passage requires careful navigation around jagged, hull-shattering rocks. For the skilled and the lucky, relative calm awaits in the inner bay anchorage, which is sheltered by a massive overhanging cliff. Ancient tone steps lead from the shore into a grand doorway in the side of the rock face.
+
+Beyond the doorway, vast passages and chambers are carved through the center of Hollowmount Island. This underkeep, undiscovered until recently, preserves the secrets and history of a long-forgotten people.
+
+Last year, a band of raiders took up residence within the outer halls of the underkeep. When not attacking coastal settlements, they live in comfort and without concern for their defenses. Who else, other than their own leader—a skilled sailor they call Kayu the Bold—is foolish enough to make landfall here? But they have neglected to consider the dangers that may lie within. Will the raiders fall prey to the deadly traps and long-dead guardians which protect the secrets of this place?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Ironlanders / Raider | very common
+28-41 | Horrors / Bonewalker | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Animals / Trog | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Haunt | rare
+96-97 | Kayu the Bold | rare
+98-99 | — | rare
+100 | Beasts / Nightspawn | unforeseen
+
+- **Region:** classic/atlas/ironlands/barrier_islands
+- **Theme:** delve/site_themes/ancient
+- **Domain:** delve/site_domains/underkeep
+- **Rank:** 4
+
+## Icebound Reach
+
+Ironlander ships, laden with ore from the north, often navigate the waters of a channel which bisects this vast icereach. This sea passage was once faster and less hazardous than overland routes. However, worsening winters have trapped ships in the expanding ice, forcing the crews to try to survive the cold season alone and isolated. Wrecked ships, their hulls exposed like broken ribs, stand as grim monuments to those who did not prevail.
+
+The animals and beasts who dwell here fight their own battles for survival. The mightiest of these is a massive rhaskar which defends this frozen land against intruders. Is safe passage through Icebound Reach forever lost to us?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Animals / Wolf | very common
+28-41 | Animals / Bear | common
+42-55 | Firstborn / Atanya | common
+56-69 | — | common
+70-75 | Animals / Shroud Crab | uncommon
+76-81 | common folk - sailors | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Wyvern | rare
+96-97 | Beasts / Rhaskar | rare
+98-99 | — | rare
+100 | — | unforeseen
+
+- **Region:** classic/atlas/ironlands/ragged_coast
+- **Theme:** delve/site_themes/wild
+- **Domain:** delve/site_domains/icereach
+- **Rank:** 4
+
+## Lastrock Mine
+
+The miners of Lastrock depend on the iron in their hills to maintain trade alliances with neighboring settlements. The mine is decades old, founded before the village itself. But a new tunnel broke into a cavern and allowed a horde of chitters, starving and frenzied, to swarm into the tunnels. Several miners fell to the swarm; others have not been seen since the invasion.
+
+Other creatures followed the chitters into the tunnels, and the place is overrun. The Lastrock miners can’t return to work until the infestation is cleared. Also, there are reports of distant cries for help echoing through the abandoned chambers. Did some of the missing miners survive?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Beasts / Chitter | very common
+28-41 | Animals / Deep Rat | common
+42-55 | Animals / Nightmare Spider | common
+56-69 | — | common
+70-75 | Animals / Trog | uncommon
+76-81 | Animals / Bladewing | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Common folk - miner | rare
+96-97 | — | rare
+98-99 | — | rare
+100 | — | unforeseen
+
+- **Region:** classic/atlas/ironlands/veiled_mountains
+- **Theme:** delve/site_themes/infested
+- **Domain:** delve/site_domains/mine
+- **Rank:** 3
+
+## Redhome Sanctum
+
+The people of Redhome are known for their hospitality. The village is unusually prosperous, and the folk are willing to share that abundance with friend and stranger alike. All are welcome during the frequent festivals and celebrations. Many travelers speak fondly of their time spent in Redhome, and of a bounty of food, drink, song, and fellowship. It is the Old World reborn, they say, a wellspring of hope in a harsh land.
+
+But there is a darker truth here. The settlement was built directly on top of an age-old underkeep. Within the longhouse, a sealed and guarded stone pit is a gateway to the labyrinthine underdark. The villagers perform a nightly rite by slaying an animal or beast and casting the corpse into the depths. This keeps the denizens of the underkeep at bay, they say, but many are not so sure. Some complain of lost memories and dark dreams of their time in the village. Others sing laments for loved ones who did not return from a sojourn there. What secrets do the folk of Redhome protect?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Animals / Deep Rat | very common
+28-41 | Beasts / Nightspawn | common
+42-55 | Animals / Nightmare Spider | common
+56-69 | — | common
+70-75 | Animals / Trog | uncommon
+76-81 | Horrors / Chimera | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Bonewalker | rare
+96-97 | — | rare
+98-99 | — | rare
+100 | — | unforeseen
+
+- **Region:** classic/atlas/ironlands/havens
+- **Theme:** delve/site_themes/corrupted
+- **Domain:** delve/site_domains/underkeep
+- **Rank:** 4
+
+## Sinking Temple
+
+A massive ruin, ancient and abandoned, stands silent and still along the coast. Once, a lost people worshiped gods of the sea in this place. Today, the ground beneath it gives way, toppling the temple into the ocean and flooding its lower chambers.
+
+Ironlanders pilgrimage here to pay respect to those old gods. They cast cherished items into the sea and pray for calm waters and safe voyages for their kin. Recently, these pilgrims found the ruin overrun with savage [merrow](id:delve/npcs/firstborn/merrow), invading from the ocean’s depths.
+
+What brings the merrow to this place, and what hidden dangers lurk within its deluged chambers?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Firstborn / Merrow | very common
+28-41 | Animals / Shroud Crab | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Horrors / Sodden | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Anomalies / Maelstrom | rare
+96-97 | Firstborn / Primordial | rare
+98-99 | — | rare
+100 | Beasts / Kraken | unforeseen
+
+- **Region:** classic/atlas/ironlands/ragged_coast
+- **Theme:** delve/site_themes/ravaged
+- **Domain:** delve/site_domains/ruin
+- **Rank:** 4
+
+## Smoldering Wood
+
+Two years ago, a primordial of charred stone and raging fire was killed, hunted to its end by Ironlanders protecting their village. As the creature fell, disintegrating into ash, it sowed the land with its primal fire. Now, the trees smolder with spectral flame, giving off a choking heat and noxious smoke. The creatures of this place are driven to madness by this perpetual, ghostly blaze, and a tribe of Varou seek vengeance for what was destroyed.
+
+Mystics speak of visions of the primordial’s heart at the center of the wood. Will removing this heart cure the forest of its curse of flame?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Firstborn / Varou | very common
+28-41 | Animals / Bear | common
+42-55 | Animals / Wolf | common
+56-69 | Animals / Boar | common
+70-75 | Beasts / Gnarl | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Elder Beast | rare
+96-97 | — | rare
+98-99 | — | rare
+100 | Anomalies / Blood Thorn | unforeseen
+
+- **Region:** classic/atlas/ironlands/havens
+- **Theme:** delve/site_themes/ravaged
+- **Domain:** delve/site_domains/tanglewood
+- **Rank:** 3
+
+## Stillgrave Mire
+
+In this flooded lowland forest, two clans of elves fight each other in an unending war. The reason for this conflict is long forgotten. Only the hate remains. The power of that hate infects this place like a sickness, seeping into the waters and contaminating the woods. It gives a horrid new life to those who die here, and fallen elves soon rise again to fight alongside their kin. They are called the twice-born.
+
+In some skirmishes, the dead outnumber the living. Soon, perhaps only the twice-born will remain. What can be done to end this forever war?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Firstborn / Elf | very common
+28-41 | Horrors / Bonewalker | common
+42-55 | Horrors / Hollow | common
+56-69 | — | common
+70-75 | Horrors / Haunt | uncommon
+76-81 | Animals / Marsh Rat | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Chimera | rare
+96-97 | Beasts / Basilisk | rare
+98-99 | — | rare
+100 | Firstborn / Primordial | unforeseen
+
+- **Region:** classic/atlas/ironlands/havens
+- **Theme:** delve/site_themes/haunted
+- **Domain:** delve/site_domains/shadowfen
+- **Rank:** 3
+
+## Stonesong Spire
+
+Visions of a once-great fortress drew Kord the Stonewright to a deep lake in the northern [Havens](id:classic/atlas/ironlands/havens). There, he discovered the stones scattered in shallow waters and buried in mud near the shore—all that was left of the ancient place which haunted his dreams. Piece by piece, he recovered the remains of the fortress, transplanting the stones laboriously to an island at the lake’s center.
+
+Most laughed at this crazy venture. But some joined Kord, drawn to this place by a compulsion they can’t understand or explain. Guided by the stonewright’s unwavering vision, they rebuilt the vaults of the fortress and its tall central spire. Today, nearly two decades later, the workforce numbers in the hundreds. They live in ramshackle camps encircling the fortress and on the lakeshore. Many protect the place with spear and shield. The stones sing to them, they say, and with each block mortared in place the words become clearer. Folk of this area call them the builders.
+
+The strange tower, nearly complete, now looms over the valley. There’s a hum in the air, an expectant energy like the lull before a great storm. What is about to happen?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Ironlanders / Zealot | very common
+28-41 | Ironlanders / Common Folk | common
+42-55 | Ironlanders / Warrior | common
+56-69 | — | common
+70-75 | Ironlanders / Mystic | uncommon
+76-81 | Horrors / Haunt | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Horrors / Thrall | rare
+96-97 | Kord the Stonewright | rare
+98-99 | — | rare
+100 | — | unforeseen
+
+- **Region:** classic/atlas/ironlands/havens
+- **Theme:** delve/site_themes/hallowed
+- **Domain:** delve/site_domains/stronghold
+- **Rank:** 4
+
+## Topplekeep
+
+The skeletal structure of Topplekeep strikes an unsettling silhouette. It is a crumbling, tilting ruin, once a mighty fortress to some forgotten warlord. Time and weather have had their way with the place, eroding it down to its bones as it sinks deeper into the yielding ground and brackish waterways of the surrounding [Wild](id:classic/site_themes/wild) [Shadowfen](id:classic/site_domains/shadowfen). Many of its passages and rooms are flooded with foul, stagnant water.
+
+A colony of bladewings, emerging to hunt under cover of darkness, roost within this place. Wayward travelers and opportunistic treasure-seekers provide ample prey for the beasts, and gnawed bones litter the dilapidated ruin. It’s said the trove of the warlord lies in the heart of Topplekeep, and perhaps could be reached at night, when the bladewings hunt. But this is a fool’s errand. More than just the bladewings lurk in this place. What other dangers lie within?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Animals / Bladewing | very common
+28-41 | Animals / Marsh Rat | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Beasts / Harrow Spider | uncommon
+76-81 | Horrors / Sodden | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Firstborn / Troll | rare
+96-97 | Animals / Carrion Newt | rare
+98-99 | — | rare
+100 | — | unforeseen
+
+- **Region:** classic/atlas/ironlands/flooded_lands
+- **Theme:** delve/site_themes/infested
+- **Domain:** delve/site_domains/ruin
+- **Rank:** 2
+
+## Trail of Spirits
+
+A long-dead civilization once used this path through the [Veiled Mountains](id:classic/atlas/ironlands/veiled_mountains) as a trade road. Their crumbling outposts, forts, and waystones, half-buried in snow and fallen glacial stones, mark the way. Some say you can still hear their voices and songs carried on the wind; echoes of lives long lost.
+
+A clan of [giants](id:classic/npcs/firstborn/giant) now live here, drawn to the remains of this once-powerful place like travelers huddling close to a dying fire. They defend the pass against a massive tribe of [broken](id:classic/npcs/ironlanders/broken) who lurk within the caves and ruins of this frozen land. What purpose do the giants have here, and what can be done to aid their defense against the broken?
+
+**Denizens**
+
+Roll | NPC | Frequency
+---|---|---
+1-27 | Ironlanders / Broken | very common
+28-41 | Firstborn / Giant | common
+42-55 | — | common
+56-69 | — | common
+70-75 | Horrors / Frostbound | uncommon
+76-81 | — | uncommon
+82-87 | — | uncommon
+88-93 | — | uncommon
+94-95 | Beasts / Wyvern | rare
+96-97 | Anomalies / Circle Of Stones | rare
+98-99 | Animals / Bear | rare
+100 | Firstborn / Primordial | unforeseen
+
+- **Region:** classic/atlas/ironlands/veiled_mountains
+- **Theme:** delve/site_themes/ancient
+- **Domain:** delve/site_domains/pass
+- **Rank:** 4

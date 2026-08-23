@@ -1,0 +1,417 @@
+# Ironsworn: Delve — Rarities
+
+## Ayethin’s Journal
+
+This ancient tome was originally written by a legendary alchemist. In its curiously well-preserved pages, inscribed in an ink of unnatural intensity, are formulas for alchemical concoctions. New recipes occasionally appear unbidden, although the total number of pages never changes.
+
+- **Xp Cost:** 5
+
+## Black Fang
+
+This large tooth of uncertain origin resonates with the power and mystery of the untamed world. When you hold or wear the fang, your eyes take on a slight golden hue, and you feel the call of those wild places.
+
+- **Xp Cost:** 3
+
+## Resolute Banner
+
+First borne by the surviving members of a warband who stood firm against an enemy onslaught, this banner is scarred by generations of war. When you carry it into battle against an overwhelming foe, you might hear the song of former bearers, or catch glimpses of their spectral presence fighting alongside you.
+
+- **Xp Cost:** 4
+
+## Cairn Stone of the Sundered
+
+The Sundered, an Ironlands warband, was formed of those who suffered the traumas of battle—but whose fighting spirit remained. Khinara the Half-Handed, a shrewd leader outcast from her former band, brought these misfits together to forge a new path. Their final and most renowned battle was to stand against an overwhelming force of varou at the Siege of Winterhill. Nearly all the Sundered fell in that long day of fighting, but not before saving many Ironlanders from the varou horde.
+
+Khinara and her handful of remaining comrades left the battleground that day and have not been seen since. A simple cairn marked the sacrifice and courage of the Sundered, from which only this small stone remains.
+
+- **Xp Cost:** 3
+
+## Bracer of the First Blood
+
+This simple leather bracer was worn generations ago by the first person killed by your kin-blade. At that time, it was a simple weapon wielded by your ancestor. With their dying breath, the blade’s victim cursed your ancestor to an afterlife of iron servitude, binding them forever to the weapon.
+
+The bracer is weathered and marred by faded blood stains. When worn on your blade-arm, you feel a stronger connection to your ancestor within the iron. But there is another presence here, and you sense its long-simmering thirst for revenge.
+
+- **Xp Cost:** 4
+
+## Waterskin of Fellowship
+
+Ages ago, this waterskin, filled with wine, was passed among the fighters of a warband on the night before a fateful battle. They drunk heartily, sang hopeful tunes, and swore promises to one another. None would be left behind, they vowed. All would fall or stand together.
+
+By the dawn, all lie dead. But their loyalty and companionship infused this waterskin with the purity of those vows. Anything it contains—water, wine, or mead—is made sweeter and more refreshing. When you bear the skin, your own nature might change subtly, and others may view you more favorably.
+
+- **Xp Cost:** 3
+
+## Scarves of the Northern Lights
+
+These lengths of fabric, bound together with silvery thread, are enchanted with the alluring but dangerous essence of the hyperborean realms.
+
+When you dance with the scarves, your movements seem to blur and shimmer, becoming almost ethereal. The fabric casts wavering, prismatic auras into the air. Their beguiling nature is otherworldly.
+
+- **Xp Cost:** 3
+
+## Founder’s Reliquary
+
+This urn of brassy metal, etched with strange and captivating iconography, contains the ashes and bone fragments of an ancient devotant, the founder of your faith. While carrying this reliquary, you might catch whispers and chants on the wind; echoes of ancient oration.
+
+- **Xp Cost:** 3
+
+## Sigil of the Broken Circlet
+
+This sigil of simple worked iron bears a gemstone that once adorned a noble circlet. Within its facets, you might glimpse the faces of an ancient ruler whose reign ended with the sundering of their circlet of power. When you bear this sigil, you embody some measure of this ruler’s former authority.
+
+- **Xp Cost:** 3
+
+## Coin of Favor
+
+This battered copper coin, emblazoned with the emblem of a forgotten people, appears mundane at first glance—a worthless trinket. But when spun on a surface, flipped into the air, or rolled across knuckles, the coin hums with a strange and discordant tone. Those who understand the coin’s song may find themselves on a path of good fortune.
+
+- **Xp Cost:** 4
+
+## Silverstone Pestle
+
+This obsidian pestle is streaked with shimmering silver. The rounded end is unworn and unstained even after centuries of use. When ground against a mortar, violet smoke wafts from the ingredients, occasionally forming vaguely humanoid figures and bestial shapes. The phantasms are gone to the wind almost as soon as they appear.
+
+- **Xp Cost:** 3
+
+## Unbreakable Torc
+
+Once clasped to your arm, this simple iron bracelet binds itself closed. It cannot be removed, except by lopping off your hand at the wrist. When you stay true to your word, it is said to grant good fortune. But when you tell a lie or forsake an oath, it tightens painfully, like a snake coiling around its prey.
+
+- **Xp Cost:** 3
+
+## Blackguard’s Baldric
+
+An infamous scoundrel wore a wide belt laden with pouches and buckles, from which he drew wondrous implements to aid in his devious work. After his death, the baldric disappeared, but occasionally finds its way into the hands of the clever and the cunning. It’s said that in times of need, one might find their salvation within the many pouches and pockets of the belt.
+
+- **Xp Cost:** 4
+
+## Basilisk Cloak
+
+This leathery cloak and cowl, yellow-brown in hue, is stitched from the hide of a basilisk. When draped over the shoulders, the cloak allows the wearer to embody the stealthy nature of those beasts of the southern marshlands.
+
+- **Xp Cost:** 5
+
+## Horn of the Mammoth
+
+This sweeping signal horn, carved from the tusk of a mammoth, is etched with inscrutable runes. When blown, the horn emits the thunderous bellow of a mammoth.
+
+Through the years, keepers of this mighty horn have rallied allies and summoned aid to their friends. Today, it is imbued with the loyalty and sacrifices of those bearers.
+
+- **Xp Cost:** 3
+
+## Progenitor Shard
+
+The Progenitor Shard appears as a mundane piece of petrified wood. However, it is a fragment of what the elves call the source tree—the long dead entity from which all other elder trees originate. When pressed to the forehead of an elven mask, the shard sets itself into a hollow and glimmers with ancient power. Then, the mask makes a dramatic change to its features, such as sprouting wooden horns or antlers. A mask with the Progenitor Shard may even display new awareness and intelligence, reacting to others through subtle changes of its once-inert expression.
+
+- **Xp Cost:** 5
+
+## Sundered Sword
+
+This remnant of an ancient sword consists only of a hilt, bound in decaying leather, and a stunted piece of broken blade. When it was whole, the weapon was wielded by a queen’s guard. That warrior failed in his oath to protect his queen when she was assassinated by a usurper. In honor of his fallen liege, he undertook a new years-long quest that toppled kingdoms and remade the world. At the end of it, he shattered his sword and made no more vows. What’s left of the blade is said to hold an essence of the resolve that set the warrior on his path of retribution.
+
+- **Xp Cost:** 3
+
+## Mark of the Exile
+
+This mark is branded or tattooed onto the flesh of outcasts. It is the sigil of an Old World leader, betrayed by their own kin, who was stripped of their name and banished to the wilderness. They eventually returned to undo the schemes of those who cast them out. But even after they were welcomed back into their community, they chose to disappear again into the wilds—committed to their new life in exile.
+
+Now the sigil, inscribed or branded as part of lengthy ceremony, marks the forsaken or misunderstood among the Ironlanders and gives them the strength to carry on. Only a few still hold the knowledge of the ritual which sets this mark upon your flesh.
+
+- **Xp Cost:** 3
+
+## Tattoo of Many Faces
+
+This elaborate tattoo, drawn with blood-infused ink, depicts a face that seems to change subtly each time you look at it. The mystic known as the Gray Lady, who was alive in the Old World and may outlive those not yet born in this new land, grants this mark to those she finds worthy. If you seek to escape your former life by adopting new identities, the cunning magic of this tattoo may aid you in your path.
+
+- **Xp Cost:** 5
+
+## Shroud of Retribution
+
+This fragment of woolen cloth is etched with words in a long-forgotten language. It is said to be a piece of the burial shroud of a great warrior who defied death to join her war-kin in one final battle. Those who have seen beyond the veil of our world will feel a kinship to the enduring spirits that lurk within the shroud.
+
+- **Xp Cost:** 3
+
+## Horsemaster Helm
+
+This helmet with a crest of horsehair was worn by Delkash the Horseborn, a legendary leader who commanded a mighty warband of mounted warriors on the eastern plains of the Old World. She and her band were renowned for their skill in riding and the almost spiritual connection they shared with their horses.
+
+- **Xp Cost:** 4
+
+## Book of the Cipher
+
+This unassuming tome is plainly bound in leather and clasped in iron. For most folk, the pages within appear blank. For those with the gift of magic, those pages are filled with the writings and illustrations of generations of ritualists. The content is a mix of tempting secrets, indecipherable scrawls, and deranged ramblings. It is a life’s work to draw meaning from it, but even the presence of the book can bring you closer to the powers of the mystic realms.
+
+- **Xp Cost:** 3
+
+## Barrow Clasp
+
+This horrid cloak clasp is fashioned from several interlocking finger bones. It was once worn by Balrick the Bone-Tender, who gathered the bones from crypts across the Old World and believed they whispered of forbidden lore.
+
+When you wear the Barrow Clasp, you are marked as someone who has suffered the futility of life, who walks in shadow and embraces the power and secrets of realms beyond our own. For you, the that dark knowledge is not a corruption or a curse. It is a gift.
+
+- **Xp Cost:** 3
+
+## Seeing Stone
+
+Once owned by a mystic who succumbed to a dark path and became a husk, this glassy stone of volcanic rock is marred by a single hole through its center. Those who carry the Seeing Stone are said to gain clarity and an understanding of mystic forces. Looking through the stone may inspire revelations, but it can also reveal darkness and terrors beyond our understanding. Some secrets are best left unknown.
+
+- **Xp Cost:** 4
+
+## Slayer’s Medallion
+
+This pendant, fashioned of silver in the shape of a claw, was forged for the famed beast slayer Kodroth in honor of his tenth kill. Unfortunately, Kodroth was devoured on his eleventh hunt, and the medallion sat for a time in the gut of a wyvern. After an unceremonious reintroduction to the world, the Slayer’s Medallion was retrieved and handed from one ill-fated hunter to the next.
+
+The silver, now gouged by teeth and claw and pitted by digestive juices, is said to hold the hard lessons of every failed bowshot, every clumsy spear thrust, every weakened shield-arm. Perhaps these mistakes will not be your own.
+
+- **Xp Cost:** 3
+
+## Mirror of the Eidolon
+
+Long ago, in the southlands of the Old World, a rich merchant believed he was haunted by the spirit of his beloved dead wife. But the signs of her presence were subtle. The smell of her perfume. An occasional chill. A barely-heard whisper. He longed to see her again, so he gathered the greatest artisans and mystics of the land to create a solution. Years later, they delivered a grand, gold-rimmed mirror that—they said—would reveal worlds and beings beyond the veil. The hopeful merchant had the mirror placed in his chambers and sent his staff away. A day later, a servant returned to find the merchant vanished and the mirror shattered.
+
+This piece of broken glass, the edges smoothed by time, the surface darkened and tarnished, is all that remains of that ancient mirror. Carrying it with you strengthens the thread between you and those that dwell in the realms between life and death.
+
+- **Xp Cost:** 3
+
+## Goldwhyn’s Denouement
+
+This ornate scroll tube is decorated with delicate silver and gold filigree. It is reputed to contain a single sheet of parchment once belonging to Goldwhyn the Bard, an ancient storyweaver who delighted the most royal of courts and the lowliest of mead halls with tales of adventure and sacrifice. As he lie in his death bed, Goldwhyn wrote one final tale and ordered it sealed away in this scroll tube. It has not been unsealed since, and doing so is said to bring the foulest of luck. Nevertheless, those who carry Goldwhyn’s Denouement are favored with the gift of story and fellowship.
+
+- **Xp Cost:** 4
+
+## Opal of Whispers
+
+This large opal is said to have been enchanted by a cunning mystic who sought to gain influence in court. The gem offers subtle suggestions to help guide conversations or reveal schemes. It is often set within an earring, where its whispers are better heard.
+
+- **Xp Cost:** 4
+
+## Helm of the Unbroken
+
+The famed warrior Brenna stood against a hundred foes or more before she fell, buying her brothers and sisters in arms the time they needed to retreat through the mountain pass. With blade, axe, and spear, she fought fiercely, her back against the sheer cliffs. Brenna the Unbroken, they call her in songs in the decades since. Her helm is battered and dented, tarnished and stained, but remains whole.
+
+Brenna’s strength, resolve, and sacrifice remain imbued in the iron, the enduring legacy of a noble end.
+
+- **Xp Cost:** 3
+
+## Leviathan’s Lament
+
+This pendant, fashioned from the tip of a leviathan’s tooth, is engraved with a depiction of the fateful end of that creature. Pierced by the Abyssal Harpoon, an ancient weapon of unnatural sharpness, the leviathan is shown making a final leap above the waves in its death throes. If you stare at the pendant, you might find the scene revealed in extra clarity. The waves splash and surge, and you can see the mouth of the leviathan opening in a final, defiant roar.
+
+When you wear this pendant—whether to honor the passing of this great beast, or as a warning to others of its kind—you are connected to the spirits of the water. If you are lucky, those spirits will favor you with fair winds and calm seas.
+
+- **Xp Cost:** 3
+
+## Bough of the Surest Path
+
+This simple wooden rod, carved from an Old World rowan tree, can help guide travelers to their destination. It is marked with dozens of tiny notches representing successful journeys, and is said to have been used in finding the Ironlands during our escape from the Old World.
+
+When you hold the Bough to the horizon, you feel the magnetic pull of the proper course. However, this object sometimes has its own opinions on where you should head, and may lead you to unexpected destinations.
+
+- **Xp Cost:** 4
+
+## Whetstone of the Bear
+
+This simple whetstone is engraved with a single mark—the bear claw motif of a legendary warrior renowned for their prowess in the fighting arenas of the Old World. This stone was passed from them through successive generations of fighters, and has honed the edge of countless weapons.
+
+Each faint score upon the Whetstone of the Bear is suffused with the courage, skill, and tenacity of the warriors who left that mark. When you use the whetstone, you may hear distant echoes of long-ago battles; when you carry it, you bear the legacy of those brave champions.
+
+- **Xp Cost:** 3
+
+## Vignette of the Weald
+
+This small elderwood carving depicts an intricate scene of trees, birds, and woodland animals. Looking at it for a time seems to reveal new or transformed details. A live tree grows where once stood a stump. Eyes look out from the shadows of a hollow, then disappear. A nesting bird takes flight.
+
+When you carry this unusual piece of art, you feel kinship with the natural world and a deeper understanding of those wild places. The vignette may even reveal clues which lead you on the proper path through untracked lands and keep you safe from threats.
+
+- **Xp Cost:** 4
+
+## Artisan’s Gloves
+
+Once worn by a wright who built the first ship to land on the shore of the Ironlands, these hide gloves, sturdy yet flexible and reinforced with iron studs, allow for great dexterity while also protecting a worker’s hands. The strength, skill, and resilience of dozens of wrights over many decades is worn into the leather.
+
+- **Xp Cost:** 3
+
+## Farsight Quiver
+
+This quiver is fashioned from tanned leather, and carved with elaborate, spiraling runes. Despite its age, the leather is as supple as a newly crafted object. Arrows held within are said to be given extra sharpness and accuracy, and the bearer’s sight made more keen. On occasion, an arrow retrieved from the quiver will blossom with a cold blue flame as it flies unerringly to its target.
+
+- **Xp Cost:** 4
+
+## Mantle of Many Beasts
+
+This stitched mantle is a patchwork of different pelts—some recognizable, some less so. When you wear the mantle, the ferocity and resilience of these animals and beasts is with you. Your foes may even look upon you and catch the briefest glimpses of these creatures upon your own form, like phantasms seen in the afterglow of a lightning strike.
+
+- **Xp Cost:** 5
+
+## Iron Fist
+
+This band of ridged iron is inscribed with runes and subtly thrums with ancient energy. It fits perfectly in your palm and encircles your closed fist. When wielded in a fight, the crude but effective weapon adds unnatural weight and power to your attacks.
+
+- **Xp Cost:** 5
+
+## Dagger of the Blooded
+
+When you wield this wickedly curved dagger with deadly intent, it almost seems to guide your hand. You can feel its hunger through the leather-wrapped hilt. But the blood it draws can never be completely wiped away. Over time, these stains have darkened the blade nearly to blackness.
+
+- **Xp Cost:** 3
+
+## Iron Dyad
+
+The greatsword of a fallen warrior was melted down and reforged into this exquisite pair of blades. Each piece in the Iron Dyad is a formidable weapon in its own right, light and well balanced, with a keen edge. Throughout history, these masterworks have been kept apart. Now, reunited in your hands, they whirl in a perfect, synchronous dance, dealing death with grim efficiency.
+
+- **Xp Cost:** 3
+
+## Raptor’s Talon
+
+The wooden hilt of this delicate knife is carved in the form of a diving hawk. When used to fashion arrow shafts or trim fletchings, the blade imparts the speed and deadliness of that majestic creature to the arrow itself. When the arrow flies true, you may even hear it accompanied by the cry of a hawk.
+
+- **Xp Cost:** 4
+
+## Starfall Hauberk
+
+This chain shirt is fashioned from rings of black iron, a starforged metal notoriously difficult to work in such delicate forms. It is as strong and resistant as the sturdiest shield. The glimmering black chain is beautiful to behold—like a clear night sky strung with iridescent stars.
+
+When you wear the armor, you are connected to the eternal void beyond our own world. At night, the stars call to you with an alluring song.
+
+- **Xp Cost:** 5
+
+## Rover’s Staff
+
+Some in the Ironlands speak of a figure known as the Rover, who wandered from settlement to settlement and was said to bring divine fortune. The figure dressed simply, came and went without fanfare or frivolity, and carried a gnarled staff of yew adorned with trinkets and etched with symbols of the firstborn. This staff, worn to a polished shine from decades of use, now fits in your own hand as if designed for it.
+
+- **Xp Cost:** 5
+
+## Heart of the Aegis
+
+This metal boss, affixed to the center of uncounted shields over years and generations, shines as bright as the day it was forged. It is said to strengthen both the shield and its wielder—and endures beyond both. Looking into the boss by firelight may reveal fragmentary reflections of battle and sacrifice.
+
+- **Xp Cost:** 4
+
+## Dragon’s Bite
+
+The name of the warrior who wielded Dragon’s Bite, who felled dragons of old, is lost to time. But the spear, its tip heated in the flames of dragons and quenched in their blood, is legend. The haft of this weapon is simple and mundane, unadorned. The spear’s point is formed with a layer of cold iron around a core of strange black metal. Some say the dark center is fashioned from the fossilized heart of mother dragon, the once-queen of dragonkind.
+
+- **Xp Cost:** 4
+
+## Giant Bane
+
+Before the passing of the giants in the Old World, one of their clan terrorized a highland village. For months the people suffered the torment of the giant, until a brave villager felled him with this sling.
+
+Today, untold years later, the leather is still supple, and the weapon imparts the stones unnatural force and precision. The large pouch can hold multiple stones, enabling a skilled slinger to bombard a foe with a flurry of lethal projectiles.
+
+- **Xp Cost:** 4
+
+## Warbringer
+
+A clan of raiders once terrorized vast swathes of the Old World. The greatest of them was said to wield a wicked axe he called Warbringer. It was forged of the pillaged iron of defeated foes. Following the marauder’s death, the axe passed from one hand to the next—over years and across kingdoms—as if seeking someone worthy of its savage power.
+
+- **Xp Cost:** 4
+
+## Honing Sheath
+
+“May your wits nor your iron never dull,” the runes read, running the length of this worn, dark leather scabbard. Any blade drawn from it hums a harmonious tone, its edge as sharp as the day it was forged.
+
+- **Xp Cost:** 4
+
+## Hammer of Reckoning
+
+The simple and brutal form of this great iron hammer belies the legend of its making. Said to have been crafted by the giant smiths of old, the Hammer of Reckoning was a gift bestowed upon an ancient people of the Ironlands. Forged during a great storm, and imbued with the essence of that violent tempest, it is a superbly balanced and destructive weapon. Its mightiest blows are sometimes accompanied by a distant peal of thunder.
+
+- **Xp Cost:** 4
+
+## Crow’s Patron
+
+This unusually large crow feather is adorned with beads and brightly colored string. When you wear or hold the feather and perform the ritual to summon crows, the messages they carry are made more understandable. However, crows are still tricksters, and liable to bring unwelcome news.
+
+- **Xp Cost:** 3
+
+## Breath of Life
+
+This clay decanter once belonged to an ancient mystic who dabbled in the secrets of life and death. Wracked with disease, facing his own mortality, he vowed he would endure. He inscribed the decanter with runes of power, and breathed his dying words into it. In that moment, clinging to the mortal world like a drowning man struggling to stay above the surface, his fear and anger infused the decanter with an unending breath.
+
+When you release the stopper to aid the creation of your simulacrum, those last words sometimes escape as whispered curses.
+
+- **Xp Cost:** 4
+
+## Moonshadow Ring
+
+This ring of polished wood is engraved with intertwining branches. Set in its center is a lustrous white stone. When the wearer performs the bind ceremony, the stone catches the light of the moon and flares with an unnatural glow. This light casts faint shadows of animals and beasts which dance in rhythm with the ritualist’s steps.
+
+- **Xp Cost:** 5
+
+## Incense of Beckoning
+
+When lit, this stick of incense emits a green-yellow smoke which smells faintly of wet earth and moldering things. The swirling incense eases the passage of spirits to our world, and helps bind them to the ritualist’s summoning circle.
+
+- **Xp Cost:** 3
+
+## Riddlestone
+
+Carved from a snow-white chunk of alabaster, this runestone of uncertain origin reveals a new inscription each time it is thrown.
+
+The stone makes some secrets obvious, and teases others through implication. For a particularly dire or surprising reading, it may even show a different surface or texture. For example, you might throw it in its usual alabaster form, and see it land as pitted black pumice. Divining the meaning of this trickery is not always easy—the riddlestone is a notoriously fickle tool.
+
+- **Xp Cost:** 3
+
+## Invoker’s Lodestone
+
+This arrow-shaped, palm-sized stone seems completely unremarkable. But when you hold it at arm’s length and focus on the weave of power around you, the lodestone can guide you to richer sources of mystic energy. Once those essences are absorbed, the stone shines with a subdued radiance.
+
+- **Xp Cost:** 5
+
+## Raven’s Song
+
+This large raven skull is etched with ornate symbols, and dark gems are set into its eye sockets. It is said the spirit of the raven carries the words of your keen to those who dwell in the world beyond death. As you sing, strange shadows writhe within the smoky glass of the gems, and a layer of frost spreads over the skull.
+
+- **Xp Cost:** 5
+
+## Wolf’s Feast
+
+This iron brooch bears an ornate and grisly depiction of a large wolf feeding on a fallen deer. Though the carved motif is worn and lusterless with age, the pin itself glimmers like fresh-forged metal and is as sharp as the finest dagger.
+
+- **Xp Cost:** 3
+
+## Daybreak Stone
+
+In its mundane form, this fist-sized rough-hewn crystal is lusterless and opaque. Once used to capture the essence of light, however, it glows with a purity and brilliance which banishes any aspect of darkness.
+
+- **Xp Cost:** 4
+
+## Beholder’s Dust
+
+This simple leather pouch brims with ash and bits of bone—the cremated remains of a powerful seer. When cast into a fire, the ash erupts in brilliantly colored sparks and flames. The sounds and visions within the fire are then made more vibrant.
+
+Curiously, the Beholder’s Dust is never fully consumed by the flames. Each time you return to the pouch, you will find the supply of ash replenished.
+
+- **Xp Cost:** 3
+
+## Ring of Secret Paths
+
+The plainness of this gold ring belies the nature of its creation. It was forged in the dark fires of the shadow realm, and is forever connected to the veiled paths beyond our own world. Those who wear the ring are but one step from those hidden lands, but must be cautious not to let the will of the ring subvert their own.
+
+- **Xp Cost:** 4
+
+## Chime of Secrets
+
+These small brass tubes hang from a stave of elder wood. When raised to the wind, they ring with a melody which is at first discordant. But then, if the spirits of the wind choose to reveal their secrets, the melody harmonizes and amplifies their words.
+
+- **Xp Cost:** 3
+
+## Beads of Many Domains
+
+Rune-marked beads of vibrant hues adorn a simple corded chain. The colors and materials of each bead represent a different aspect of the natural and unnatural worlds, and glimmer faintly in dark places.
+
+When you remove a bead from the chain and add it to a charm, you feel the protection bolstered. Beads sometimes appear or disappear from the chain of their accord, but the particular bead you need for a talisman is generally at hand.
+
+- **Xp Cost:** 4
+
+## Wayfarer’s Promise
+
+Before setting off on a perilous voyage, a sailor gifted his husband a piece of string—cut from the thread he used to tie back his hair. “Even when it seems we are apart,” he told him, “we are connected. This will guide me back home. Back to you.”
+
+But his ship did not return. Weeks passed. Then months. All hope seemed lost. One night, as the mourning husband held the string tight in a closed fist, there came a knock at the door. It was the sailor, with no memory of what brought him there.
+
+Centuries later, these twin strings—passed into legend and now returned—are held in a simple wooden box. When you carry it, you are reminded of the importance of a place and the people there, and it helps set you on the path home.
+
+- **Xp Cost:** 4
