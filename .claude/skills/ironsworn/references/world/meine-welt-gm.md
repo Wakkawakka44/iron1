@@ -1,4 +1,10 @@
-# Meine Welt
+# Meine Welt (GM-Fassung)
+
+*Enthält Spoiler und Hintergrundwissen, das die Spieler:innen nicht vorab
+kennen sollen. Jeder Abschnitt mit einer Überschrift der Form „GM: ..."
+ist GM-only und wird für die spielerfreundliche Fassung automatisch
+entfernt (Skript: `scripts/strip_gm_notes.py`). Alles andere in dieser
+Datei ist identisch mit `meine-welt.md`.*
 
 ## The Old World
 
@@ -62,6 +68,15 @@ Broken zu werden?
 
 Daneben gibt es auch die Firstborn in den Ironlands.
 
+### GM: Herkunft der zurückgezogenen Völker
+
+Die Broken sind vermutlich nicht das gesamte Überbleibsel des uralten
+Volkes, aus dem sie hervorgegangen sind — möglicherweise war es einst ein
+einziges Volk, das sich irgendwann geteilt hat. Die zurückgezogen lebenden,
+nicht-feindlichen Völker könnten so etwas wie entfernte Vettern der Broken
+sein. Dieser Zusammenhang ist den Ironländern nicht bekannt und sollte den
+Spieler:innen nicht vorab verraten werden.
+
 ## Broken
 
 Die Broken sind Überreste einer untergegangenen Zivilisation. Sie gehen
@@ -96,6 +111,29 @@ Broken hat, sowie ihre eigene, schamanistische Art der Magie.
 
 Warum die Broken sich so verhalten, ist unklar — ein Fluch, eine Krankheit
 oder ein Parasit werden vermutet.
+
+### GM: Der Parasit
+
+Vor etwa 1.000 bis 2.000 Jahren gerieten die Vorfahren der Broken in
+Kontakt mit einem Parasiten — zu jener Zeit nicht als solcher erkannt. Er
+befiel zunächst einzelne Individuen. Getrieben von den Wahnvorstellungen,
+die der Parasit auslöste, begründeten die Infizierten einen neuen Glauben —
+de facto verehrten sie den Parasiten selbst als Gottheit. Das erzürnte ihre
+alten Götter: zum einen, weil sie Anhänger verloren, zum anderen, weil ihre
+einstigen Gläubigen nun etwas huldigten, das in Wahrheit ein Parasit war.
+Die konsequente Meidung alter Kultstätten durch die heutigen Broken hängt
+vermutlich mit dieser Geschichte zusammen — vielleicht eine Art
+instinktiver Abscheu oder Angst, die der Parasit in seinen Wirten auslöst.
+
+Offen (bewusst noch nicht entschieden): ob der Parasit auch eine Art Macht
+verleiht — möglicherweise mit Bezug zur Magie — oder rein biologischer
+Natur ist.
+
+*Reale Inspiration: parasitengesteuertes Wirtsverhalten bei Insekten und
+Spinnen (durch parasitäre Insekten oder Pilze übernommen) sowie Studien zu
+Toxoplasma gondii und erhöhter Risikobereitschaft beim Menschen. Die
+Broken sollen wie eine biologisch plausible, schleichende Korruption wirken
+— kein plakativer, offen übernatürlicher Fluch.*
 
 ## Firstborn
 
