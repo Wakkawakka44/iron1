@@ -2,7 +2,7 @@
 
 ## The Old World
 
-Die alte Welt bestand aus mehreren großen Reichen und vielen kleinen Reichen. 
+Die alte Welt bestand aus mehreren großen Reichen und vielen kleinen Reichen.
 In und um die nördlichen Königreiche kam es zu einem schleichenden ökologischen und wirtschaftlichen
 Zusammenbruch: Missernten häuften sich, die Städte des Nordens konnten nicht
 mehr ausreichend versorgt werden. Die genaue Ursache ist bis heute
@@ -41,9 +41,9 @@ Eigenarten.
 ## Iron
 
 Überall in den Ironlands finden sich rätselhafte eiserne Stelen. Manche
-stehen einzeln, andere in großen geometrischen Formationen — etwa Kreisen, 
-dutzende Kilometer von einander entfernt. Anderswo stehen sie dagegen sehr 
-dicht gedrängt, mehrere Stelen auf nur zehn bis zwanzig Metern. 
+stehen einzeln, andere in großen geometrischen Formationen — etwa Kreisen,
+dutzende Kilometer voneinander entfernt. Anderswo stehen sie dagegen sehr
+dicht gedrängt, mehrere Stelen auf nur zehn bis zwanzig Metern.
 Die Stelen selbst variieren in der Größe, sehen aber unabhängig davon immer gleich aus.
 
 ## Legacies
@@ -74,7 +74,7 @@ Sehr selten kommt es vor, dass ein Kind unter den Broken sich nicht wie der
 Rest verhält — aus Sicht der Broken gilt ein solches Kind als dysfunktional
 oder zu schwach. Diese Kinder werden mitunter verstoßen statt getötet.
 Tatsächlich sind sie aus Ironländer-Sicht schlicht normal — nur eben nicht
-von der Broken-Raserei ergriffen. Manche dieser Ausgestoßenen werden 
+von der Broken-Raserei ergriffen. Manche dieser Ausgestoßenen werden
 von einer Siedlung aufgenommen und gerettet.
 
 Weil echter kultureller Austausch nicht stattfindet, stammt alles Wissen
@@ -83,7 +83,7 @@ Kämpfen, oder den Erzählungen der ausgestoßenen Kindern. Das
 betrifft auch das ungefähre, lückenhafte Bild, das man von der Religion der
 Broken hat, sowie ihre eigene, schamanistische Art der Magie.
 
-Auffällig ist außerdem, dass sie bestimmte alte Huldstätten 
+Auffällig ist außerdem, dass sie bestimmte alte Huldigungsstätten
 konsequent meiden — ein Verhalten, das schon so manchem
 neugierigen Ironländer aufgefallen ist (siehe „Religion").
 
@@ -130,7 +130,7 @@ benachbarten Städten haben sich zudem Nutz- und Schutzallianzen gebildet.
 
 Bei einer durchschnittlichen Bevölkerung der großen Siedlungen von ein- bis zweitausend Menschen ist offener Krieg
 zwischen Circlen teuer und selten — man kann ihn sich kaum leisten.
-Häufiger stellt sich Gefahr ein durch Überfälle der Broken, Räuber und kriminelle Banden oder eine Fehde unter den Siedlungen. 
+Häufiger stellt sich Gefahr ein durch Überfälle der Broken, Räuber und kriminelle Banden oder eine Fehde unter den Siedlungen.
 
 Kleine Dörfer haben in der Regel keine eigenen Wächter — die Gemeinschaft
 verteidigt sich im Ernstfall selbst. Größere Städte haben zwar keine reine
@@ -148,8 +148,8 @@ etwa bei Heilung oder Ernte.
 Bereits ausgebildete Magier schafften es beim Exodus aus der alten Welt mit
 hinüber, vermutlich gerade weil sie aufgrund ihres Könnens oder des daraus
 entstandenen Reichtums eher in der Lage waren, die gefährliche Reise zu
-überstehen. Doch nicht viele wollten oder mussten gehen, denn gerade für sie 
-hab es in Zeiten der Krise reichlich zu tun und Münze.
+überstehen. Doch nicht viele wollten oder mussten gehen, denn gerade für sie
+gab es in Zeiten der Krise reichlich zu tun und Münze.
 
 Unter den harten Bedingungen der Ironlands konnten sich in den
 seither vergangenen 400 Jahren jedoch keine festen Institutionen wie
@@ -185,11 +185,11 @@ Trotz realer Götter sind die Menschen der Ironlands insgesamt desillusioniert.
 Einige Gläubige schafften es beim großen Exodus mit hinüber, und gerade in
 Zeiten größter Not wandten sich die Menschen umso mehr ihren Göttern zu.
 Die ersten Jahre in den Ironlands waren jedoch extrem hart: Tausende starben, weil sich Ressourcen, Strukturen und
-Nahrungsversorgung nur schwer etablieren ließen, durch Angriffe der Broken offer stolen und magischen Bestien. 
+Nahrungsversorgung nur schwer etablieren ließen, durch Angriffe der Broken offer stolen und magischen Bestien.
 
-Für viele Keidende blieben ihre Gebete in dieser Zeit ohne spürbare Antwort. 
-Über die seither vergangenen 400 Jahre sind die alten Götter der alten Welt — 
-dort weiterhin verehrt — zunehmend in den Hintergrund getreten. 
+Für viele Keidende blieben ihre Gebete in dieser Zeit ohne spürbare Antwort.
+Über die seither vergangenen 400 Jahre sind die alten Götter der alten Welt —
+dort weiterhin verehrt — zunehmend in den Hintergrund getreten.
 An ihre Stelle ist zunächst ein diffuser, in den Ironlands selbst entstandener Schicksals- und Ahnenglaube
 getreten, geboren aus Enttäuschung über die stille Ferne der alten Götter
 und aus dem Gefühl, dass ein neues Land vielleicht auch neue Götter

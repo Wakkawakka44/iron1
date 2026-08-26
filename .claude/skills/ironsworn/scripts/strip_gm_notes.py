@@ -23,7 +23,7 @@ GM_HEADING = re.compile(r"^(#{2,6})\s+GM:.*$")
 ANY_HEADING = re.compile(r"^(#{2,6})\s+.*$")
 
 
-PUBLIC_TITLE = "# Meine Welt"
+PUBLIC_TITLE = "# Die Welt"
 
 
 def strip_gm_sections(text):
