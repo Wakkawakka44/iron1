@@ -1,4 +1,4 @@
-# Meine Welt (GM-Fassung)
+# Die Welt (GM-Fassung)
 
 *Enthält Spoiler und Hintergrundwissen, das die Spieler:innen nicht vorab
 kennen sollen. Jeder Abschnitt mit einer Überschrift der Form „GM: ..."
@@ -8,17 +8,16 @@ Datei ist identisch mit `meine-welt.md`.*
 
 ## The Old World
 
-Die alte Welt bestand aus mehreren großen Reichen. In und um die nördlichen
-Königreiche kam es zu einem schleichenden ökologischen und wirtschaftlichen
+Die alte Welt bestand aus mehreren großen Reichen und vielen kleinen Reichen.
+In und um die nördlichen Königreiche kam es zu einem schleichenden ökologischen und wirtschaftlichen
 Zusammenbruch: Missernten häuften sich, die Städte des Nordens konnten nicht
 mehr ausreichend versorgt werden. Die genaue Ursache ist bis heute
 umstritten — Klimaveränderung, Misswirtschaft und dunkle Magie oder ein
-Fluch werden gleichermaßen vermutet.
+Fluch werden gleichermaßen von den heutigen Ironländern vermutet.
 
 Die nördlichen Königreiche waren eng über Handelsnetze miteinander
 verbunden; als sie sich nicht mehr selbst versorgen konnten, brach dieses
-Gefüge kaskadenartig zusammen — vergleichbar mit dem Bronzezeitkollaps der
-realen Geschichte. In der Folge kam es zu einer großen Bevölkerungsbewegung:
+Gefüge kaskadenartig zusammen. In der Folge kam es zu einer großen Bevölkerungsbewegung:
 Menschen zogen sowohl nach Süden als auch der Küste entlang nach Norden in
 Richtung der Ironlands.
 
@@ -28,9 +27,9 @@ Fraktionen, die die Krise nutzten, um an der Macht zu bleiben oder neue
 Macht zu gewinnen — unter anderem durch wachsende Einmischung südlicher
 Königreiche in die Angelegenheiten des Nordens. Kriege um Ressourcen
 brachen aus, und die Flüchtlinge, die nach Süden drängten, wurden dort
-keineswegs immer gut aufgenommen.
+keineswegs gut aufgenommen.
 
-Der Exodus in die Ironlands liegt über 400 Jahre zurück. Diese lange
+Der Exodus in die Ironlands liegt nun über 400 Jahre zurück. Diese lange
 Zeitspanne hat den Ironländern die Möglichkeit gegeben, eigene Traditionen
 und eine eigene, von der alten Welt abweichende Kultur zu entwickeln.
 Dennoch orientieren sich einzelne Siedlungen unterschiedlich stark an einem
@@ -48,13 +47,10 @@ Eigenarten.
 ## Iron
 
 Überall in den Ironlands finden sich rätselhafte eiserne Stelen. Manche
-stehen einzeln, andere in großen geometrischen Formationen — etwa Kreisen
-—, deren Wirkung sich erst über riesige Entfernungen zeigt: Es ist denkbar,
-dass solche Formationen, über hunderte Kilometer verteilt, gemeinsam etwas
-bewirken. Anderswo stehen sie dagegen sehr dicht gedrängt, mehrere Stelen
-auf nur zehn bis zwanzig Metern. Die Stelen selbst variieren in der Größe,
-sehen aber unabhängig davon immer gleich aus. Wozu sie wirklich dienen, ist
-unbekannt.
+stehen einzeln, andere in großen geometrischen Formationen — etwa Kreisen,
+dutzende Kilometer voneinander entfernt. Anderswo stehen sie dagegen sehr
+dicht gedrängt, mehrere Stelen auf nur zehn bis zwanzig Metern.
+Die Stelen selbst variieren in der Größe, sehen aber unabhängig davon immer gleich aus.
 
 ## Legacies
 
@@ -63,8 +59,6 @@ Von ihnen ist heute vor allem ein wildes, verrohtes Volk bekannt, das man
 die Broken nennt — doch nicht alle Nachfahren dieser früheren Siedler sind
 zu Broken geworden: Vereinzelt gibt es in den Ironlands auch andere,
 zurückgezogen lebende Völker, die nicht wie die Broken feindselig sind.
-Ist es auch das Schicksal der heutigen Siedler, eines Tages selbst zu den
-Broken zu werden?
 
 Daneben gibt es auch die Firstborn in den Ironlands.
 
@@ -82,35 +76,31 @@ Spieler:innen nicht vorab verraten werden.
 Die Broken sind Überreste einer untergegangenen Zivilisation. Sie gehen
 auf einen eigenen, deutlich älteren Exodus zurück, über den nichts Näheres
 bekannt ist — dieser liegt lange, lange vor dem großen Exodus aus der alten
-Welt. Es sind zwei völlig getrennte, zeitlich weit auseinanderliegende
-Ereignisse: der uralte, unbekannte Exodus, aus dessen Siedlern die Broken
-wurden, und der spätere, gut dokumentierte Exodus der heutigen Ironländer.
+Welt.
 
 Die Broken sind praktisch alle von einer Art Wahnsinn ergriffen — voller
-Wut und Rage. Sie greifen alles und jeden an, was ihnen begegnet, kennen
-keine Rücksicht auf das eigene Leben oder eigene Bedürfnisse, und töten auf
+Wut und Rage. Sie greifen alles und jeden an, was ihnen begegnet, nehmen selten
+Rücksicht auf das eigene Leben oder eigene Bedürfnisse, und töten auf
 Sicht. Handel oder echter kultureller Austausch mit ihnen ist praktisch
 unmöglich. Sie verunstalten zudem ihre eigenen Körper, um noch gefährlicher
-zu wirken. Auffällig ist außerdem, dass sie alte Huldigungsstätten ihrer
-einstigen Götter konsequent meiden — ein Verhalten, das schon so manchem
-neugierigen Ironländer aufgefallen ist (siehe „Religion").
+zu wirken.
 
 Sehr selten kommt es vor, dass ein Kind unter den Broken sich nicht wie der
 Rest verhält — aus Sicht der Broken gilt ein solches Kind als dysfunktional
 oder zu schwach. Diese Kinder werden mitunter verstoßen statt getötet.
 Tatsächlich sind sie aus Ironländer-Sicht schlicht normal — nur eben nicht
-von der Broken-Raserei ergriffen. Manche dieser Ausgestoßenen schaffen es
-in die Zivilisation der Ironlands und werden von einer Siedlung gerettet
-oder aufgenommen.
+von der Broken-Raserei ergriffen. Manche dieser Ausgestoßenen werden
+von einer Siedlung aufgenommen und gerettet.
 
-Weil echter kultureller Austausch nicht stattfindet, beruht alles Wissen
-über die Broken auf zwei Quellen: eigener Beobachtung und Erfahrung aus
-Kämpfen, und den Erzählungen dieser geretteten, ausgestoßenen Kinder. Das
+Weil echter kultureller Austausch nicht stattfindet, stammt alles Wissen
+über die Broken aus eigener Beobachtung und Erfahrung aus
+Kämpfen, oder den Erzählungen der ausgestoßenen Kindern. Das
 betrifft auch das ungefähre, lückenhafte Bild, das man von der Religion der
 Broken hat, sowie ihre eigene, schamanistische Art der Magie.
 
-Warum die Broken sich so verhalten, ist unklar — ein Fluch, eine Krankheit
-oder ein Parasit werden vermutet.
+Auffällig ist außerdem, dass sie bestimmte alte Huldigungsstätten
+konsequent meiden — ein Verhalten, das schon so manchem
+neugierigen Ironländer aufgefallen ist (siehe „Religion").
 
 ### GM: Der Parasit
 
@@ -148,9 +138,7 @@ Besiedlung der Ironlands führte, liegt über 400 Jahre zurück. Insgesamt
 sind die Ironlands nach wie vor nur spärlich besiedelt: Es gibt einzelne
 kleine Dörfer und vereinzelt auch schon Circles, doch zwischen den
 Siedlungen liegen oft mehrere Tage Reise. An der Küste haben sich
-vermutlich bereits die ersten größeren Siedlungen gebildet, mit vielleicht
-ein- bis zweitausend Menschen — mehr aber nicht. Im Landesinneren, in den
-Bergen und im Dschungel werden die Siedlungen dagegen zunehmend kleiner.
+bereits die ersten größeren Siedlungen gebildet. Die größte umfasst für 2.000 Seelen, im Mittel sind es jedoch eher 500. Im Landesinneren, in den Bergen und im Dschungel werden die Siedlungen dagegen zunehmend kleiner.
 
 ## Leaders
 
@@ -160,7 +148,7 @@ kein festes Amt, keine Institution.
 
 In den größeren Küstenstädten und den mittelgroßen Ackerbau-Dörfern der
 Plains zeigen sich dagegen eher Kontinuitäten aus der alten Welt: Manche
-Siedlungen wurden von ganzen Clans gegründet, die es geschafft hatten,
+Siedlungen wurden von ganzen Clans oder Adelsfamilien gegründet, die es geschafft hatten,
 während des Exodus zusammenzubleiben und ihre alten Machtstrukturen
 mitzunehmen. Andernorts errichteten Gruppen von Priestern regelrechte
 Enklaven, um dort alten oder neuen Göttern zu huldigen. Wie religiös oder
@@ -178,13 +166,9 @@ benachbarten Städten haben sich zudem Nutz- und Schutzallianzen gebildet.
 
 ## Defense
 
-Bei einer Bevölkerung von ein- bis zweitausend Menschen ist offener Krieg
-zwischen Siedlungen teuer und selten — man kann ihn sich kaum leisten.
-Häufiger sind stattdessen Überfälle, Räuber und kriminelle Banden. Auch
-Nachkommen der alten Königreiche, die es mit Geld und Ressourcen über die
-gefährliche Reise geschafft haben, versuchen mitunter, eigene
-Machtstrukturen zu etablieren — vereinzelt offenbar sogar erfolgreich, in
-einer der größeren Siedlungen.
+Bei einer durchschnittlichen Bevölkerung der großen Siedlungen von ein- bis zweitausend Menschen ist offener Krieg
+zwischen Circlen teuer und selten — man kann ihn sich kaum leisten.
+Häufiger stellt sich Gefahr ein durch Überfälle der Broken, Räuber und kriminelle Banden oder eine Fehde unter den Siedlungen.
 
 Kleine Dörfer haben in der Regel keine eigenen Wächter — die Gemeinschaft
 verteidigt sich im Ernstfall selbst. Größere Städte haben zwar keine reine
@@ -202,7 +186,10 @@ etwa bei Heilung oder Ernte.
 Bereits ausgebildete Magier schafften es beim Exodus aus der alten Welt mit
 hinüber, vermutlich gerade weil sie aufgrund ihres Könnens oder des daraus
 entstandenen Reichtums eher in der Lage waren, die gefährliche Reise zu
-überstehen. Unter den harten Bedingungen der Ironlands konnten sich in den
+überstehen. Doch nicht viele wollten oder mussten gehen, denn gerade für sie
+gab es in Zeiten der Krise reichlich zu tun und Münze.
+
+Unter den harten Bedingungen der Ironlands konnten sich in den
 seither vergangenen 400 Jahren jedoch keine festen Institutionen wie
 Magierschulen etablieren — im Unterschied zu den Magierschulen, die die
 ersten Lehrer einst noch in der alten Welt selbst gegründet hatten. Deren
@@ -228,24 +215,20 @@ Gemeinschaft zu dienen, und nehmen gelegentlich selbst Schüler auf.
 
 ## Religion
 
-Die Götter existieren, und Gebete werden gelegentlich erhört — doch aus dem
-Glauben selbst erwächst keine tatsächliche Macht. Nur Magiebegabte können
-durch mystizistische Rituale wirklich etwas in der Welt bewirken (siehe
-„Mysticism"), Priester nicht. Vermutlich haben sich beide Dinge in Teilen
-vermischt: Magie mit dem äußeren Anstrich eines religiösen Rituals, sodass
-es so wirkt, als würde der Glaube etwas bewirken — tatsächlich ist es aber
-der Mystizismus dahinter, der wirkt.
+Die Götter existieren und erhören ab und zu die Gebete ihrer Priester und Auserwählten, lassen ihnen zum Beispiel besonderen Schutz zukommen in der Stunde der Not. Doch nur Magiebegabte können
+durch mystizistische Rituale gezielt die Welt beeinflussen (siehe
+„Mysticism").
 
 Trotz realer Götter sind die Menschen der Ironlands insgesamt desillusioniert.
 Einige Gläubige schafften es beim großen Exodus mit hinüber, und gerade in
 Zeiten größter Not wandten sich die Menschen umso mehr ihren Göttern zu.
-Die ersten Jahre in den Ironlands waren jedoch extrem hart: Hunderte,
-vielleicht Tausende starben, weil sich Ressourcen, Strukturen und
-Nahrungsversorgung nur schwer etablieren ließen. Für viele blieben Gebete
-in dieser Zeit ohne spürbare Antwort. Über die seither vergangenen 400
-Jahre sind die alten Götter der alten Welt — dort weiterhin verehrt —
-zunehmend in den Hintergrund getreten. An ihre Stelle ist zunächst ein
-diffuser, in den Ironlands selbst entstandener Schicksals- und Ahnenglaube
+Die ersten Jahre in den Ironlands waren jedoch extrem hart: Tausende starben, weil sich Ressourcen, Strukturen und
+Nahrungsversorgung nur schwer etablieren ließen, durch Angriffe der Broken oder magischen Bestien.
+
+Für viele Leidende blieben ihre Gebete in dieser Zeit ohne spürbare Antwort.
+Über die seither vergangenen 400 Jahre sind die alten Götter der alten Welt —
+dort weiterhin verehrt — zunehmend in den Hintergrund getreten.
+An ihre Stelle ist zunächst ein diffuser, in den Ironlands selbst entstandener Schicksals- und Ahnenglaube
 getreten, geboren aus Enttäuschung über die stille Ferne der alten Götter
 und aus dem Gefühl, dass ein neues Land vielleicht auch neue Götter
 verdient.
