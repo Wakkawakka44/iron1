@@ -76,11 +76,54 @@ Bei Regelfragen zählen weiterhin die `references/datasworn/`-Dateien als
 offizielle Quelle; die Ironsmith-Oracles sind reine Inspirations-Zusatzoracles,
 kein Regelwerk.
 
-Noch offen: Referenzen für die vom Nutzer erschaffene Spielwelt (eigene Orte,
-Fraktionen, NPCs, offene Fäden) sowie ein Format für Tagebucheinträge. Diese
-entstehen iterativ im Gespräch mit dem Nutzer, z.B. als:
+### Die eigene Welt des Nutzers
 
-- `references/world.md` – die vom Nutzer erschaffene Spielwelt
+Es gibt **zwei** Dateien, die dieselbe Weltbeschreibung in zwei
+Sichtbarkeitsstufen enthalten — entlang der offiziellen Truths aufgebaut
+(Überschriften wie "## The Old World" entsprechen den Truth-Kategorien aus
+`references/datasworn/classic/truths.md`):
+
+- **`references/world/meine-welt-gm.md`** ist die alleinige Quelle der
+  Wahrheit (Source of Truth). Hier werden alle Änderungen vorgenommen.
+  Enthält zusätzlich zum normalen Text GM-only-Abschnitte, markiert mit
+  einer Überschrift der Form `### GM: <Titel>` — für Spoiler, aufgelöste
+  Hintergrundgeheimnisse (z.B. die wahre Ursache eines In-Welt-Mysteriums)
+  und Produktionsnotizen, die die Spieler:innen nicht kennen sollen.
+- **`references/world/meine-welt.md`** ist die spielerfreundliche,
+  spoilerfreie Fassung — automatisch generiert aus der GM-Datei via
+  `python3 scripts/strip_gm_notes.py references/world/meine-welt-gm.md references/world/meine-welt.md`.
+  **Niemals direkt bearbeiten** — jede Änderung geht in die GM-Datei, dann
+  das Skript laufen lassen.
+
+Iterativ im Gespräch mit dem Nutzer erweitern:
+
+- Wenn der Nutzer eine Truth beschreibt, den Kern seiner Aussage (nicht das
+  Transkript wörtlich) in einen zusammenhängenden Absatz unter der
+  passenden Truth-Überschrift fassen, in `meine-welt-gm.md`.
+- Beide Dateien sauber/publizierbar halten: reiner Weltbeschreibungs-
+  Fließtext, keine Meta-Kommentare wie "Offene Frage", "Klärungsbedarf",
+  "Korrektur" oder "vorläufig" im normalen Text — auch nicht in der
+  GM-Datei außerhalb eines `### GM:`-Abschnitts. Unentschiedene Details
+  stattdessen im Chat ansprechen/nachfragen, statt sie zu erfinden oder als
+  Platzhalter ins Dokument zu schreiben; erst nach Klärung als fertigen
+  Text einpflegen. In-Welt-Mysterien (Dinge, die die Charaktere selbst
+  nicht wissen) gehören als normale Erzählung in den Haupttext (z.B. "ihr
+  wahrer Zweck ist unbekannt") — hat der Nutzer aber bereits eine geheime
+  Auflösung dafür festgelegt (wie beim Grund für den Wahnsinn der Broken),
+  gehört diese Auflösung in einen `### GM:`-Abschnitt direkt danach.
+- Wenn eine spätere Aussage des Nutzers einer bereits eingetragenen Stelle
+  widerspricht, den betroffenen Text in `meine-welt-gm.md` direkt
+  korrigieren (nicht als "Korrektur:"-Vermerk daneben schreiben) und im
+  Chat kurz zusammenfassen, was geändert wurde.
+- Für Inhalte, die zu keiner Truth gehören (NPCs, Orte, Fraktionen, offene
+  Fäden), passende neue Abschnitte/Dateien unter `references/world/`
+  anlegen, sobald der Nutzer solche Inhalte liefert — nach demselben
+  GM/öffentlich-Muster, falls Spoiler-Inhalte dabei sind.
+- Nach jeder Änderung an `meine-welt-gm.md` sofort `strip_gm_notes.py`
+  laufen lassen, damit die beiden Dateien nie auseinanderdriften.
+
+Noch offen: ein Format für Tagebucheinträge. Entsteht ebenfalls iterativ,
+sobald der Nutzer die erste Session erzählt.
 
 ## Rollen dieses Skills
 
