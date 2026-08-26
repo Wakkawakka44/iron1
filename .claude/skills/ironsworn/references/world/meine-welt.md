@@ -185,9 +185,9 @@ Trotz realer Götter sind die Menschen der Ironlands insgesamt desillusioniert.
 Einige Gläubige schafften es beim großen Exodus mit hinüber, und gerade in
 Zeiten größter Not wandten sich die Menschen umso mehr ihren Göttern zu.
 Die ersten Jahre in den Ironlands waren jedoch extrem hart: Tausende starben, weil sich Ressourcen, Strukturen und
-Nahrungsversorgung nur schwer etablieren ließen, durch Angriffe der Broken offer stolen und magischen Bestien.
+Nahrungsversorgung nur schwer etablieren ließen, durch Angriffe der Broken oder magischen Bestien.
 
-Für viele Keidende blieben ihre Gebete in dieser Zeit ohne spürbare Antwort.
+Für viele Leidende blieben ihre Gebete in dieser Zeit ohne spürbare Antwort.
 Über die seither vergangenen 400 Jahre sind die alten Götter der alten Welt —
 dort weiterhin verehrt — zunehmend in den Hintergrund getreten.
 An ihre Stelle ist zunächst ein diffuser, in den Ironlands selbst entstandener Schicksals- und Ahnenglaube
