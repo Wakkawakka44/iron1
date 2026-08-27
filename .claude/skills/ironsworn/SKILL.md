@@ -19,14 +19,15 @@ Stück anhand von PDF-Quellenmaterial (Regelwerk, Weltbeschreibung) erweitert.
 
 ### Regelwerk (Datasworn)
 
-Das offizielle Ironsworn-Regelwerk (Classic + Delve) liegt strukturiert unter
-`references/datasworn/` — importiert aus [rsek/datasworn](https://github.com/rsek/datasworn)
-(Details/Lizenz: `references/datasworn/NOTICE.md`). Bei Regelfragen, Moves,
-Oracles, Assets, NPC-Stats etc. dort nachschlagen statt aus dem Gedächtnis zu
-raten:
+Das offizielle Ironsworn-Regelwerk (Classic + Starforged + Delve) liegt
+strukturiert unter `references/datasworn/` — importiert aus
+[rsek/datasworn](https://github.com/rsek/datasworn) (Details/Lizenz:
+`references/datasworn/NOTICE.md`). Bei Regelfragen, Moves, Oracles, Assets,
+NPC-Stats etc. dort nachschlagen statt aus dem Gedächtnis zu raten:
 
-- `references/datasworn/classic/moves.md` – alle Moves (Adventure, Relationship,
-  Combat, Suffer, Quest, Fate) inkl. vollem Regeltext und Outcomes
+- `references/datasworn/classic/moves.md` – alle **Ironsworn Classic**-Moves
+  (Adventure, Relationship, Combat, Suffer, Quest, Fate) inkl. vollem
+  Regeltext und Outcomes
 - `references/datasworn/classic/oracles.md` – alle Orakel-Tabellen (Namen,
   Orte, Siedlungen, Wendepunkte, ...)
 - `references/datasworn/classic/assets.md` – alle Assets (Combat Talent,
@@ -36,14 +37,28 @@ raten:
 - `references/datasworn/classic/truths.md` – die "World Truths" (Setting-Grundlagen)
 - `references/datasworn/classic/rules.md` – Stats, Condition Meters (Health/
   Spirit/Supply), Special Tracks, Impacts
+- `references/datasworn/starforged/*.md` – dieselben Kategorien (moves,
+  oracles, assets, npcs, truths, rules) für **Ironsworn: Starforged**, das
+  eigenständige Sci-Fi-Regelwerk mit teils anderen Moves (z.B. "React Under
+  Fire" statt "Secure an Advantage")
 - `references/datasworn/delve/*.md` – dieselben Kategorien für die
   *Ironsworn: Delve*-Erweiterung, plus `rarities.md`, `delve_sites.md`,
   `site_domains.md`, `site_themes.md` für Dungeon-Delves
 
-Diese Markdown-Dateien sind aus `references/datasworn/source/{classic,delve}.json`
-generiert (Skript: `scripts/build_reference_markdown.py`). Die JSON-Dateien
-selbst sind die exakte Quelle (IDs, exakte Werte) für Fälle, in denen das
-Markdown nicht reicht — wegen ihrer Größe (600+ KB) nicht komplett einlesen,
+**Wichtig — Classic und Starforged nicht mischen:** Für Moves gilt pro
+Kampagne/Charakter immer genau **ein** Basisregelwerk, entweder Classic
+(`classic/moves.md`) oder Starforged (`starforged/moves.md`) — nie beide
+gleichzeitig, außer der Nutzer sagt ausdrücklich, dass er ein
+Hybrid-Regelwerk spielt. Ist zu Beginn einer Session unklar, welches
+Regelwerk gilt, kurz nachfragen statt zu raten. **Ironsworn: Delve**
+(`delve/*.md`) ist reine Dungeon-Erkundung und passt zu **beiden**
+Basisregelwerken gleichzeitig.
+
+Diese Markdown-Dateien sind aus
+`references/datasworn/source/{classic,starforged,delve}.json` generiert
+(Skript: `scripts/build_reference_markdown.py`). Die JSON-Dateien selbst
+sind die exakte Quelle (IDs, exakte Werte) für Fälle, in denen das Markdown
+nicht reicht — wegen ihrer Größe (400-700+ KB) nicht komplett einlesen,
 sondern gezielt mit `jq`/`grep` abfragen.
 
 ### Zusätzliche Orakel (Ironsmith Expanded Oracles)
@@ -151,8 +166,10 @@ transparent gezeigt (Action Die, beide Challenge Dice, Ergebnis).
 - „Ich mache **[Move-Name]** mit **[Stat]**" — z.B. „Ich mache Face Danger mit Edge"
 - „Ich greife [Ziel] an" / „Ich mache Strike gegen [Ziel]" (Kampf-Move)
 - „Ich betrete den Kampf gegen [Ziel]" (Enter the Fray)
-- „Ich versuche [Aktion]" — der passende Move wird aus
-  `references/datasworn/classic/moves.md` (bzw. `delve/moves.md`) ermittelt
+- „Ich versuche [Aktion]" — der passende Move wird aus dem Moves-File des
+  aktuell geltenden Regelwerks ermittelt (`classic/moves.md` **oder**
+  `starforged/moves.md` — nie beide gemischt; `delve/moves.md` ergänzend für
+  Dungeon-Situationen)
 
 Ablauf: passenden Move nachschlagen → Action Die (1d6) + Stat gegen zwei
 Challenge Dice (1d10 je) würfeln → starker Treffer / schwacher Treffer /
@@ -160,8 +177,12 @@ Fehlschlag (plus Match, wenn beide Challenge Dice gleich sind) bestimmen →
 passenden Outcome-Text aus der Referenz vorlesen und in die Fiktion
 übersetzen.
 
-Alle Move-Namen (Adventure, Relationship, Combat, Suffer, Quest, Fate) stehen
-in `references/datasworn/classic/moves.md` bzw. `delve/moves.md`.
+Alle Move-Namen stehen in `references/datasworn/classic/moves.md` (Adventure,
+Relationship, Combat, Suffer, Quest, Fate) bzw.
+`references/datasworn/starforged/moves.md` (Session, Adventure, Quest,
+Connection, Exploration, Combat, Suffer, Recover, Threshold, Legacy, Fate,
+Scene Challenge — eigene Kategorien, teils andere Move-Namen und -Wirkung
+als Classic) sowie ergänzend `delve/moves.md`.
 
 ### Move suchen / Regel nachschlagen
 
